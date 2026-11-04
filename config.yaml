@@ -2,8 +2,8 @@
 # Job Radar settings. Edit this file on GitHub; changes apply on the next run.
 # ------------------------------------------------------------------
 
-# Your GitHub Pages link (fill in after setup, e.g. https://<you>.github.io/job-radar/)
-page_url: "https://designj02.github.io/job-radar/"
+# Your GitHub Pages link (fill in after setup, e.g. https://<you>.github.io/Job-radar/)
+page_url: "https://designj02.github.io/Job-radar/"
 
 telegram_max_per_run: 15     # stops one run from flooding your phone
 email_digest_hour_ist: 9     # one email per day, at/after this hour (IST)
