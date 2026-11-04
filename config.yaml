@@ -3,7 +3,7 @@
 # ------------------------------------------------------------------
 
 # Your GitHub Pages link (fill in after setup, e.g. https://<you>.github.io/job-radar/)
-page_url: ""
+page_url: "https://designj02.github.io/job-radar/"
 
 telegram_max_per_run: 15     # stops one run from flooding your phone
 email_digest_hour_ist: 9     # one email per day, at/after this hour (IST)
