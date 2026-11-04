@@ -1,0 +1,89 @@
+# ------------------------------------------------------------------
+# Job Radar settings. Edit this file on GitHub; changes apply on the next run.
+# ------------------------------------------------------------------
+
+# Your GitHub Pages link (fill in after setup, e.g. https://<you>.github.io/job-radar/)
+page_url: ""
+
+telegram_max_per_run: 15     # stops one run from flooding your phone
+email_digest_hour_ist: 9     # one email per day, at/after this hour (IST)
+
+filters:
+  # A job title must match at least one of these...
+  title_include:
+    - '\bproduct\s+designer\b'
+    - '\bux\s+designer\b'
+    - '\bui\s*/?\s*ux\b'
+    - '\bux\s*/?\s*ui\b'
+    - '\buser\s+experience\s+designer\b'
+    - '\binteraction\s+designer\b'
+    - '\bproduct\s+design\b'
+  # ...and none of these.
+  title_exclude:
+    - '\bintern(ship)?\b'
+    - '\btrainee\b'
+    - '\bjunior\b'
+    - '\bassociate\b'
+    - '\blead\b'
+    - '\bprincipal\b'
+    - '\bstaff\b'
+    - '\bhead\b'
+    - '\bdirector\b'
+    - '\bmanager\b'
+    - '\bvp\b'
+    - '\bresearcher\b'
+    - '\bengineer\b'
+    - '\bgraphic\b'
+    - '\bcontract(or)?\b'
+
+  # Location must contain one of these (for company career pages).
+  locations: [delhi, gurgaon, gurugram, noida, ncr, bangalore, bengaluru, hyderabad]
+  # "Remote" jobs are kept unless the location mentions one of these.
+  remote_exclude_if_contains:
+    [us, usa, united states, uk, united kingdom, europe, emea, canada, germany,
+     france, americas, north america, latam, australia, singapore, mexico, brazil]
+
+  # Drop jobs whose description clearly asks for more than max (or tops out below min) years.
+  experience: { min: 3, max: 5 }
+
+# LinkedIn public (logged-out) search. Best effort: LinkedIn often blocks automated
+# requests, so some runs will skip it. Never put your LinkedIn login in here.
+linkedin:
+  enabled: true
+  keywords: '"product designer" OR "ux designer" OR "ui/ux designer" OR "ui ux designer"'
+  posted_within_seconds: 86400   # look back 24h each run; duplicates are filtered out
+  experience_levels: "3,4"       # 3 = Associate, 4 = Mid-Senior
+  searches:
+    - { location: "New Delhi, Delhi, India", distance: 25 }   # covers Gurugram & Noida
+    - { location: "Bengaluru, Karnataka, India" }
+    - { location: "Hyderabad, Telangana, India" }
+    - { location: "India", remote_only: true }
+
+# Company career pages. ats = greenhouse | lever | ashby, slug = the name in their
+# job-board URL (boards.greenhouse.io/<slug>, jobs.lever.co/<slug>, jobs.ashbyhq.com/<slug>).
+#
+# STARTER LIST - NOT VERIFIED. Companies change hiring tools often.
+# Run the "Check sources" workflow once, then delete or fix anything marked FAILED.
+# Add companies you actually want to work for: open their careers page, click a job,
+# and look at the URL to find the ats and slug.
+companies:
+  - { name: Postman,      ats: greenhouse, slug: postman }
+  - { name: BrowserStack, ats: greenhouse, slug: browserstack }
+  - { name: PhonePe,      ats: greenhouse, slug: phonepe }
+  - { name: Groww,        ats: greenhouse, slug: groww }
+  - { name: InMobi,       ats: greenhouse, slug: inmobi }
+  - { name: HackerRank,   ats: greenhouse, slug: hackerrank }
+  - { name: Mindtickle,   ats: greenhouse, slug: mindtickle }
+  - { name: Druva,        ats: greenhouse, slug: druva }
+  - { name: Whatfix,      ats: greenhouse, slug: whatfix }
+  - { name: Sprinklr,     ats: greenhouse, slug: sprinklr }
+  - { name: CRED,         ats: lever,      slug: cred }
+  - { name: Meesho,       ats: lever,      slug: meesho }
+  - { name: Razorpay,     ats: lever,      slug: razorpay }
+  - { name: Jupiter,      ats: lever,      slug: jupiter }
+  - { name: Zeta,         ats: lever,      slug: zeta }
+  - { name: slice,        ats: lever,      slug: sliceit }
+  - { name: Atlan,        ats: ashby,      slug: atlan }
+  - { name: Zepto,        ats: ashby,      slug: zepto }
+  - { name: Plum,         ats: ashby,      slug: plum }
+  - { name: Sarvam AI,    ats: ashby,      slug: sarvam }
