@@ -1,0 +1,152 @@
+{
+ "seen": {
+  "li:4486385276": "2026-11-05T00:58:11.675370+00:00",
+  "li:4486503702": "2026-11-05T00:58:11.675370+00:00",
+  "li:4470636485": "2026-11-05T00:58:11.675370+00:00",
+  "li:4486337818": "2026-11-05T00:58:11.675370+00:00",
+  "li:4487229902": "2026-11-05T00:58:11.675370+00:00",
+  "li:4486370826": "2026-11-05T00:58:11.675370+00:00",
+  "li:4476656364": "2026-11-05T00:58:11.675370+00:00",
+  "li:4486375675": "2026-11-05T00:58:11.675370+00:00",
+  "li:4487248457": "2026-11-05T00:58:11.675370+00:00",
+  "li:4487242185": "2026-11-05T00:58:11.675370+00:00",
+  "li:4485092894": "2026-11-05T00:58:11.675370+00:00",
+  "ab:sarvam:79bb725b-83d4-400c-a207-e2b0a7ccec68": "2026-11-05T00:58:11.675370+00:00"
+ },
+ "recent": [
+  {
+   "id": "ab:sarvam:79bb725b-83d4-400c-a207-e2b0a7ccec68",
+   "title": "Product Designer",
+   "company": "Sarvam AI",
+   "location": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/sarvam/79bb725b-83d4-400c-a207-e2b0a7ccec68",
+   "source": "Ashby",
+   "posted": "2026-05-19T03:45:42.145000+00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4485092894",
+   "title": "Product Designer",
+   "company": "HowNow",
+   "location": "Mumbai Metropolitan Region",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-hownow-4485092894",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4487242185",
+   "title": "UX Designer (Figma + Storybook)",
+   "company": "InfoBeans",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-figma-%2B-storybook-at-infobeans-4487242185",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4487248457",
+   "title": "User Experience Designer",
+   "company": "Bitamin",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-bitamin-4487248457",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4486375675",
+   "title": "UI/UX Designers",
+   "company": "Reveille Technologies,Inc",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designers-at-reveille-technologies-inc-4486375675",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4476656364",
+   "title": "UI/UX Designer",
+   "company": "Accellor",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-accellor-4476656364",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4486370826",
+   "title": "Senior Product Designer - B2C",
+   "company": "Versatile Club Employer of Record",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-b2c-at-versatile-club-employer-of-record-4486370826",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4487229902",
+   "title": "Senior Product Designer",
+   "company": "noon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-noon-4487229902",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4486337818",
+   "title": "Senior Product Designer",
+   "company": "HappieHire",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-happiehire-4486337818",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4470636485",
+   "title": "Senior UX Designer",
+   "company": "OneTrust",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-onetrust-4470636485",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4486503702",
+   "title": "UI/UX Designer",
+   "company": "Cloudwick",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-cloudwick-4486503702",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  },
+  {
+   "id": "li:4486385276",
+   "title": "Product Designer (UI/UX)",
+   "company": "Knowmax",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ui-ux-at-knowmax-4486385276",
+   "source": "LinkedIn",
+   "posted": "2026-11-04T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T00:58:11.675370+00:00"
+  }
+ ],
+ "email_pending": [],
+ "last_email_date": ""
+}
