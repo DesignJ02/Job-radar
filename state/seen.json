@@ -11,9 +11,69 @@
   "li:4487248457": "2026-11-05T00:58:11.675370+00:00",
   "li:4487242185": "2026-11-05T00:58:11.675370+00:00",
   "li:4485092894": "2026-11-05T00:58:11.675370+00:00",
-  "ab:sarvam:79bb725b-83d4-400c-a207-e2b0a7ccec68": "2026-11-05T00:58:11.675370+00:00"
+  "ab:sarvam:79bb725b-83d4-400c-a207-e2b0a7ccec68": "2026-11-05T00:58:11.675370+00:00",
+  "li:4486574915": "2026-11-05T07:44:10.628824+00:00",
+  "li:4486569435": "2026-11-05T07:44:10.628824+00:00",
+  "li:4487243454": "2026-11-05T07:44:10.628824+00:00",
+  "li:4486359939": "2026-11-05T07:44:10.628824+00:00",
+  "li:4485587636": "2026-11-05T07:44:10.628824+00:00"
  },
  "recent": [
+  {
+   "id": "li:4485587636",
+   "title": "Senior Product Designer",
+   "company": "Motive",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-motive-4485587636",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
+  {
+   "id": "li:4486359939",
+   "title": "Founding Product Designer",
+   "company": "Flywl",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/founding-product-designer-at-flywl-4486359939",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
+  {
+   "id": "li:4487243454",
+   "title": "Senior UX/UI Designer",
+   "company": "EvoluteIQ",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-ui-designer-at-evoluteiq-4487243454",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
+  {
+   "id": "li:4486569435",
+   "title": "Product Designer",
+   "company": "LivWell",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-livwell-4486569435",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
+  {
+   "id": "li:4486574915",
+   "title": "UI/UX Designer",
+   "company": "Cox & Kings",
+   "location": "New Delhi, Delhi, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-cox-kings-4486574915",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
   {
    "id": "ab:sarvam:79bb725b-83d4-400c-a207-e2b0a7ccec68",
    "title": "Product Designer",
@@ -147,6 +207,62 @@
    "first_seen": "2026-11-05T00:58:11.675370+00:00"
   }
  ],
- "email_pending": [],
+ "email_pending": [
+  {
+   "id": "li:4485587636",
+   "title": "Senior Product Designer",
+   "company": "Motive",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-motive-4485587636",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
+  {
+   "id": "li:4486359939",
+   "title": "Founding Product Designer",
+   "company": "Flywl",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/founding-product-designer-at-flywl-4486359939",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
+  {
+   "id": "li:4487243454",
+   "title": "Senior UX/UI Designer",
+   "company": "EvoluteIQ",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-ui-designer-at-evoluteiq-4487243454",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
+  {
+   "id": "li:4486569435",
+   "title": "Product Designer",
+   "company": "LivWell",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-livwell-4486569435",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  },
+  {
+   "id": "li:4486574915",
+   "title": "UI/UX Designer",
+   "company": "Cox & Kings",
+   "location": "New Delhi, Delhi, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-cox-kings-4486574915",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T07:44:10.628824+00:00"
+  }
+ ],
  "last_email_date": ""
 }
