@@ -28,9 +28,57 @@
   "li:4470953384": "2026-11-05T15:49:25.997317+00:00",
   "li:4464325352": "2026-11-05T15:49:25.997317+00:00",
   "li:4486584719": "2026-11-05T15:49:25.997317+00:00",
-  "lv:meesho:500264fe-e851-499a-b825-2eb588752aa3": "2026-11-05T15:49:25.997317+00:00"
+  "lv:meesho:500264fe-e851-499a-b825-2eb588752aa3": "2026-11-05T15:49:25.997317+00:00",
+  "li:4479107891": "2026-11-05T21:42:51.037997+00:00",
+  "li:4485832781": "2026-11-05T21:42:51.037997+00:00",
+  "li:4487786675": "2026-11-05T21:42:51.037997+00:00",
+  "li:4487784192": "2026-11-05T21:42:51.037997+00:00"
  },
  "recent": [
+  {
+   "id": "li:4487784192",
+   "title": "Product Designer",
+   "company": "House of PY Technologies",
+   "location": "Itanagar, Arunachal Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-house-of-py-technologies-4487784192",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T21:42:51.037997+00:00"
+  },
+  {
+   "id": "li:4487786675",
+   "title": "Senior UX Designer, AI",
+   "company": "Asha Health (YC F24)",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-ai-at-asha-health-yc-f24-4487786675",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T21:42:51.037997+00:00"
+  },
+  {
+   "id": "li:4485832781",
+   "title": "Senior User Experience Designer",
+   "company": "Ad Astra Consultants",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-at-ad-astra-consultants-4485832781",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T21:42:51.037997+00:00"
+  },
+  {
+   "id": "li:4479107891",
+   "title": "UI-UX Designer",
+   "company": "WSP in India",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-wsp-in-india-4479107891",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T21:42:51.037997+00:00"
+  },
   {
    "id": "lv:meesho:500264fe-e851-499a-b825-2eb588752aa3",
    "title": "Product Designer - II (Design System)",
@@ -538,6 +586,50 @@
    "posted": "2026-11-05T00:00:00",
    "salary": "",
    "first_seen": "2026-11-05T15:49:25.997317+00:00"
+  },
+  {
+   "id": "li:4487784192",
+   "title": "Product Designer",
+   "company": "House of PY Technologies",
+   "location": "Itanagar, Arunachal Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-house-of-py-technologies-4487784192",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T21:42:51.037997+00:00"
+  },
+  {
+   "id": "li:4487786675",
+   "title": "Senior UX Designer, AI",
+   "company": "Asha Health (YC F24)",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-ai-at-asha-health-yc-f24-4487786675",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T21:42:51.037997+00:00"
+  },
+  {
+   "id": "li:4485832781",
+   "title": "Senior User Experience Designer",
+   "company": "Ad Astra Consultants",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-at-ad-astra-consultants-4485832781",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T21:42:51.037997+00:00"
+  },
+  {
+   "id": "li:4479107891",
+   "title": "UI-UX Designer",
+   "company": "WSP in India",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-wsp-in-india-4479107891",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-05T21:42:51.037997+00:00"
   }
  ],
  "last_email_date": ""
