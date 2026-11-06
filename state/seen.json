@@ -32,9 +32,69 @@
   "li:4479107891": "2026-11-05T21:42:51.037997+00:00",
   "li:4485832781": "2026-11-05T21:42:51.037997+00:00",
   "li:4487786675": "2026-11-05T21:42:51.037997+00:00",
-  "li:4487784192": "2026-11-05T21:42:51.037997+00:00"
+  "li:4487784192": "2026-11-05T21:42:51.037997+00:00",
+  "li:4486949679": "2026-11-06T08:48:29.589126+00:00",
+  "li:4483534536": "2026-11-06T08:48:29.589126+00:00",
+  "li:4486206482": "2026-11-06T08:48:29.589126+00:00",
+  "li:4488108776": "2026-11-06T08:48:29.589126+00:00",
+  "li:4488129381": "2026-11-06T08:48:29.589126+00:00"
  },
  "recent": [
+  {
+   "id": "li:4488129381",
+   "title": "Product Designer",
+   "company": "AIFISE",
+   "location": "Bhilai, Chhattisgarh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-aifise-4488129381",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4488108776",
+   "title": "UI/UX Designer � Power BI Dashboard Specialist",
+   "company": "PRI INDIA IT SERVICES PRIVATE LIMITED",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-%EF%BF%BD-power-bi-dashboard-specialist-at-pri-india-it-services-private-limited-4488108776",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4486206482",
+   "title": "Senior User Experience Designer",
+   "company": "Cyient",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-at-cyient-4486206482",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4483534536",
+   "title": "Senior Product Designer",
+   "company": "INDmoney",
+   "location": "Bangalore Urban, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-indmoney-4483534536",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4486949679",
+   "title": "Senior Product UI/UX Designer",
+   "company": "Neo Media Group Ltd",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-ui-ux-designer-at-neo-media-group-ltd-4486949679",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
   {
    "id": "li:4487784192",
    "title": "Product Designer",
@@ -630,6 +690,61 @@
    "posted": "2026-11-05T00:00:00",
    "salary": "",
    "first_seen": "2026-11-05T21:42:51.037997+00:00"
+  },
+  {
+   "id": "li:4488129381",
+   "title": "Product Designer",
+   "company": "AIFISE",
+   "location": "Bhilai, Chhattisgarh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-aifise-4488129381",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4488108776",
+   "title": "UI/UX Designer � Power BI Dashboard Specialist",
+   "company": "PRI INDIA IT SERVICES PRIVATE LIMITED",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-%EF%BF%BD-power-bi-dashboard-specialist-at-pri-india-it-services-private-limited-4488108776",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4486206482",
+   "title": "Senior User Experience Designer",
+   "company": "Cyient",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-at-cyient-4486206482",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4483534536",
+   "title": "Senior Product Designer",
+   "company": "INDmoney",
+   "location": "Bangalore Urban, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-indmoney-4483534536",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4486949679",
+   "title": "Senior Product UI/UX Designer",
+   "company": "Neo Media Group Ltd",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-ui-ux-designer-at-neo-media-group-ltd-4486949679",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T08:48:29.589126+00:00"
   }
  ],
  "last_email_date": ""
