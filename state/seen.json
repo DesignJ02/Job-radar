@@ -37,9 +37,129 @@
   "li:4483534536": "2026-11-06T08:48:29.589126+00:00",
   "li:4486206482": "2026-11-06T08:48:29.589126+00:00",
   "li:4488108776": "2026-11-06T08:48:29.589126+00:00",
-  "li:4488129381": "2026-11-06T08:48:29.589126+00:00"
+  "li:4488129381": "2026-11-06T08:48:29.589126+00:00",
+  "li:4460444100": "2026-11-06T16:30:38.440583+00:00",
+  "li:4480362215": "2026-11-06T16:30:38.440583+00:00",
+  "li:4488172802": "2026-11-06T16:30:38.440583+00:00",
+  "li:4461735412": "2026-11-06T16:30:38.440583+00:00",
+  "li:4486984641": "2026-11-06T16:30:38.440583+00:00",
+  "li:4488143323": "2026-11-06T16:30:38.440583+00:00",
+  "li:4469604067": "2026-11-06T16:30:38.440583+00:00",
+  "li:4484168593": "2026-11-06T16:30:38.440583+00:00",
+  "li:4486255334": "2026-11-06T16:30:38.440583+00:00",
+  "li:4477095466": "2026-11-06T16:30:38.440583+00:00"
  },
  "recent": [
+  {
+   "id": "li:4477095466",
+   "title": "UI-UX Designer",
+   "company": "WSP in India",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-wsp-in-india-4477095466",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4486255334",
+   "title": "Sr. UI/UX Designer (5+ years)",
+   "company": "MarsDevs",
+   "location": "Pune District, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ui-ux-designer-5%2B-years-at-marsdevs-4486255334",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4484168593",
+   "title": "Senior User Experience Designer",
+   "company": "Arista Networks",
+   "location": "Pune/Pimpri-Chinchwad Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-at-arista-networks-4484168593",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4469604067",
+   "title": "Sr User Experience Designer",
+   "company": "Blackbaud India",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-user-experience-designer-at-blackbaud-india-4469604067",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4488143323",
+   "title": "UX Designer",
+   "company": "Comviva",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-comviva-4488143323",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4486984641",
+   "title": "User Experience Designer",
+   "company": "Pace Wisdom Solutions",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-pace-wisdom-solutions-4486984641",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4461735412",
+   "title": "UX Designer - C3 - CXP",
+   "company": "Valtech",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-c3-cxp-at-valtech-4461735412",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4488172802",
+   "title": "User Interface/User Experience Designer",
+   "company": "Salesforce",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-interface-user-experience-designer-at-salesforce-4488172802",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4480362215",
+   "title": "Senior UX Designer",
+   "company": "Sage",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-sage-4480362215",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4460444100",
+   "title": "Product UX Designer - Interaction Design",
+   "company": "Clearwater Analytics",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-ux-designer-interaction-design-at-clearwater-analytics-4460444100",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
   {
    "id": "li:4488129381",
    "title": "Product Designer",
@@ -745,6 +865,116 @@
    "posted": "2026-11-06T00:00:00",
    "salary": "",
    "first_seen": "2026-11-06T08:48:29.589126+00:00"
+  },
+  {
+   "id": "li:4477095466",
+   "title": "UI-UX Designer",
+   "company": "WSP in India",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-wsp-in-india-4477095466",
+   "source": "LinkedIn",
+   "posted": "2026-11-05T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4486255334",
+   "title": "Sr. UI/UX Designer (5+ years)",
+   "company": "MarsDevs",
+   "location": "Pune District, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ui-ux-designer-5%2B-years-at-marsdevs-4486255334",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4484168593",
+   "title": "Senior User Experience Designer",
+   "company": "Arista Networks",
+   "location": "Pune/Pimpri-Chinchwad Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-at-arista-networks-4484168593",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4469604067",
+   "title": "Sr User Experience Designer",
+   "company": "Blackbaud India",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-user-experience-designer-at-blackbaud-india-4469604067",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4488143323",
+   "title": "UX Designer",
+   "company": "Comviva",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-comviva-4488143323",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4486984641",
+   "title": "User Experience Designer",
+   "company": "Pace Wisdom Solutions",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-pace-wisdom-solutions-4486984641",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4461735412",
+   "title": "UX Designer - C3 - CXP",
+   "company": "Valtech",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-c3-cxp-at-valtech-4461735412",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4488172802",
+   "title": "User Interface/User Experience Designer",
+   "company": "Salesforce",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-interface-user-experience-designer-at-salesforce-4488172802",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4480362215",
+   "title": "Senior UX Designer",
+   "company": "Sage",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-sage-4480362215",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4460444100",
+   "title": "Product UX Designer - Interaction Design",
+   "company": "Clearwater Analytics",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-ux-designer-interaction-design-at-clearwater-analytics-4460444100",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T16:30:38.440583+00:00"
   }
  ],
  "last_email_date": ""
