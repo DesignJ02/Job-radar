@@ -47,9 +47,33 @@
   "li:4469604067": "2026-11-06T16:30:38.440583+00:00",
   "li:4484168593": "2026-11-06T16:30:38.440583+00:00",
   "li:4486255334": "2026-11-06T16:30:38.440583+00:00",
-  "li:4477095466": "2026-11-06T16:30:38.440583+00:00"
+  "li:4477095466": "2026-11-06T16:30:38.440583+00:00",
+  "li:4486997327": "2026-11-06T21:45:29.809032+00:00",
+  "li:4488423703": "2026-11-06T21:45:29.809032+00:00"
  },
  "recent": [
+  {
+   "id": "li:4488423703",
+   "title": "User Interface/User Experience Designer",
+   "company": "SalesForce-ad",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-interface-user-experience-designer-at-salesforce-ad-4488423703",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T21:45:29.809032+00:00"
+  },
+  {
+   "id": "li:4486997327",
+   "title": "Product Designer | 5+ Years of Experience | Healthcare Product Expertise | Bangalore",
+   "company": "Sketch Brahma Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-5%2B-years-of-experience-healthcare-product-expertise-bangalore-at-sketch-brahma-technologies-4486997327",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T21:45:29.809032+00:00"
+  },
   {
    "id": "li:4477095466",
    "title": "UI-UX Designer",
@@ -975,6 +999,28 @@
    "posted": "2026-11-06T00:00:00",
    "salary": "",
    "first_seen": "2026-11-06T16:30:38.440583+00:00"
+  },
+  {
+   "id": "li:4488423703",
+   "title": "User Interface/User Experience Designer",
+   "company": "SalesForce-ad",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-interface-user-experience-designer-at-salesforce-ad-4488423703",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T21:45:29.809032+00:00"
+  },
+  {
+   "id": "li:4486997327",
+   "title": "Product Designer | 5+ Years of Experience | Healthcare Product Expertise | Bangalore",
+   "company": "Sketch Brahma Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-5%2B-years-of-experience-healthcare-product-expertise-bangalore-at-sketch-brahma-technologies-4486997327",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-06T21:45:29.809032+00:00"
   }
  ],
  "last_email_date": ""
