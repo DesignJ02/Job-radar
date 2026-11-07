@@ -51,9 +51,57 @@
   "li:4486997327": "2026-11-06T21:45:29.809032+00:00",
   "li:4488423703": "2026-11-06T21:45:29.809032+00:00",
   "li:4487375938": "2026-11-07T07:37:57.564396+00:00",
-  "li:4486622027": "2026-11-07T07:37:57.564396+00:00"
+  "li:4486622027": "2026-11-07T07:37:57.564396+00:00",
+  "li:4486628819": "2026-11-07T14:21:09.647434+00:00",
+  "li:4488496932": "2026-11-07T14:21:09.647434+00:00",
+  "li:4118096029": "2026-11-07T14:21:09.647434+00:00",
+  "li:4477680252": "2026-11-07T14:21:09.647434+00:00"
  },
  "recent": [
+  {
+   "id": "li:4477680252",
+   "title": "Senior Product Designer",
+   "company": "Paylocity",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-paylocity-4477680252",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T14:21:09.647434+00:00"
+  },
+  {
+   "id": "li:4118096029",
+   "title": "UI/UX Designer",
+   "company": "Skild AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-skild-ai-4118096029",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T14:21:09.647434+00:00"
+  },
+  {
+   "id": "li:4488496932",
+   "title": "Ui Ux Product  Designer",
+   "company": "Lolly.com",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-product-designer-at-lolly-com-4488496932",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T14:21:09.647434+00:00"
+  },
+  {
+   "id": "li:4486628819",
+   "title": "Website Developer- UI/ UX",
+   "company": "RadiantBiz Management Consultancy",
+   "location": "Delhi, India",
+   "url": "https://in.linkedin.com/jobs/view/website-developer-ui-ux-at-radiantbiz-management-consultancy-4486628819",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T14:21:09.647434+00:00"
+  },
   {
    "id": "li:4486622027",
    "title": "Product Designer",
@@ -1067,6 +1115,50 @@
    "posted": "2026-11-07T00:00:00",
    "salary": "",
    "first_seen": "2026-11-07T07:37:57.564396+00:00"
+  },
+  {
+   "id": "li:4477680252",
+   "title": "Senior Product Designer",
+   "company": "Paylocity",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-paylocity-4477680252",
+   "source": "LinkedIn",
+   "posted": "2026-11-06T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T14:21:09.647434+00:00"
+  },
+  {
+   "id": "li:4118096029",
+   "title": "UI/UX Designer",
+   "company": "Skild AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-skild-ai-4118096029",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T14:21:09.647434+00:00"
+  },
+  {
+   "id": "li:4488496932",
+   "title": "Ui Ux Product  Designer",
+   "company": "Lolly.com",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-product-designer-at-lolly-com-4488496932",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T14:21:09.647434+00:00"
+  },
+  {
+   "id": "li:4486628819",
+   "title": "Website Developer- UI/ UX",
+   "company": "RadiantBiz Management Consultancy",
+   "location": "Delhi, India",
+   "url": "https://in.linkedin.com/jobs/view/website-developer-ui-ux-at-radiantbiz-management-consultancy-4486628819",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T14:21:09.647434+00:00"
   }
  ],
  "last_email_date": ""
