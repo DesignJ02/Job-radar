@@ -49,9 +49,33 @@
   "li:4486255334": "2026-11-06T16:30:38.440583+00:00",
   "li:4477095466": "2026-11-06T16:30:38.440583+00:00",
   "li:4486997327": "2026-11-06T21:45:29.809032+00:00",
-  "li:4488423703": "2026-11-06T21:45:29.809032+00:00"
+  "li:4488423703": "2026-11-06T21:45:29.809032+00:00",
+  "li:4487375938": "2026-11-07T07:37:57.564396+00:00",
+  "li:4486622027": "2026-11-07T07:37:57.564396+00:00"
  },
  "recent": [
+  {
+   "id": "li:4486622027",
+   "title": "Product Designer",
+   "company": "AppVentory",
+   "location": "Ahmedabad, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-appventory-4486622027",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T07:37:57.564396+00:00"
+  },
+  {
+   "id": "li:4487375938",
+   "title": "User Experience Designer",
+   "company": "TTFA Academy",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-ttfa-academy-4487375938",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T07:37:57.564396+00:00"
+  },
   {
    "id": "li:4488423703",
    "title": "User Interface/User Experience Designer",
@@ -1021,6 +1045,28 @@
    "posted": "2026-11-06T00:00:00",
    "salary": "",
    "first_seen": "2026-11-06T21:45:29.809032+00:00"
+  },
+  {
+   "id": "li:4486622027",
+   "title": "Product Designer",
+   "company": "AppVentory",
+   "location": "Ahmedabad, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-appventory-4486622027",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T07:37:57.564396+00:00"
+  },
+  {
+   "id": "li:4487375938",
+   "title": "User Experience Designer",
+   "company": "TTFA Academy",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-ttfa-academy-4487375938",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-07T07:37:57.564396+00:00"
   }
  ],
  "last_email_date": ""
