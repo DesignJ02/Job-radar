@@ -61,9 +61,33 @@
   "li:4367225868": "2026-11-08T01:44:04.081614+00:00",
   "li:4487625281": "2026-11-08T01:44:04.081614+00:00",
   "li:4479636836": "2026-11-08T01:44:04.081614+00:00",
-  "li:4470051314": "2026-11-08T01:44:04.081614+00:00"
+  "li:4470051314": "2026-11-08T01:44:04.081614+00:00",
+  "li:4488770674": "2026-11-08T14:53:57.836109+00:00",
+  "li:4477792027": "2026-11-08T14:53:57.836109+00:00"
  },
  "recent": [
+  {
+   "id": "li:4477792027",
+   "title": "Product Designer — WhatsApp India",
+   "company": "WhatsApp",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-%E2%80%94-whatsapp-india-at-whatsapp-4477792027",
+   "source": "LinkedIn",
+   "posted": "2026-11-08T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T14:53:57.836109+00:00"
+  },
+  {
+   "id": "li:4488770674",
+   "title": "Senior UI / UX Designer - AI Hub",
+   "company": "Linde",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-ai-hub-at-linde-4488770674",
+   "source": "LinkedIn",
+   "posted": "2026-11-08T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T14:53:57.836109+00:00"
+  },
   {
    "id": "li:4470051314",
    "title": "Senior UX Product Designer",
@@ -1297,6 +1321,28 @@
    "posted": "2026-11-07T00:00:00",
    "salary": "",
    "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4477792027",
+   "title": "Product Designer — WhatsApp India",
+   "company": "WhatsApp",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-%E2%80%94-whatsapp-india-at-whatsapp-4477792027",
+   "source": "LinkedIn",
+   "posted": "2026-11-08T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T14:53:57.836109+00:00"
+  },
+  {
+   "id": "li:4488770674",
+   "title": "Senior UI / UX Designer - AI Hub",
+   "company": "Linde",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-ai-hub-at-linde-4488770674",
+   "source": "LinkedIn",
+   "posted": "2026-11-08T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T14:53:57.836109+00:00"
   }
  ],
  "last_email_date": ""
