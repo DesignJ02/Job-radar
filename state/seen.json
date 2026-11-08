@@ -55,9 +55,81 @@
   "li:4486628819": "2026-11-07T14:21:09.647434+00:00",
   "li:4488496932": "2026-11-07T14:21:09.647434+00:00",
   "li:4118096029": "2026-11-07T14:21:09.647434+00:00",
-  "li:4477680252": "2026-11-07T14:21:09.647434+00:00"
+  "li:4477680252": "2026-11-07T14:21:09.647434+00:00",
+  "li:4461103201": "2026-11-08T01:44:04.081614+00:00",
+  "li:4463107633": "2026-11-08T01:44:04.081614+00:00",
+  "li:4367225868": "2026-11-08T01:44:04.081614+00:00",
+  "li:4487625281": "2026-11-08T01:44:04.081614+00:00",
+  "li:4479636836": "2026-11-08T01:44:04.081614+00:00",
+  "li:4470051314": "2026-11-08T01:44:04.081614+00:00"
  },
  "recent": [
+  {
+   "id": "li:4470051314",
+   "title": "Senior UX Product Designer",
+   "company": "Broadcom",
+   "location": "Greater Chennai Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-product-designer-at-broadcom-4470051314",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4479636836",
+   "title": "Senior Interaction Designer",
+   "company": "NVIDIA",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-interaction-designer-at-nvidia-4479636836",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4487625281",
+   "title": "Senior Product Designer",
+   "company": "Rempact",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-rempact-4487625281",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4367225868",
+   "title": "Product Designer",
+   "company": "Seismic",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-seismic-4367225868",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4463107633",
+   "title": "Senior UI / UX Designer - AI Hub",
+   "company": "Linde",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-ai-hub-at-linde-4463107633",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4461103201",
+   "title": "Senior UI / UX Designer - AI Hub",
+   "company": "Linde@India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-ai-hub-at-linde%40india-4461103201",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
   {
    "id": "li:4477680252",
    "title": "Senior Product Designer",
@@ -1159,6 +1231,72 @@
    "posted": "2026-11-07T00:00:00",
    "salary": "",
    "first_seen": "2026-11-07T14:21:09.647434+00:00"
+  },
+  {
+   "id": "li:4470051314",
+   "title": "Senior UX Product Designer",
+   "company": "Broadcom",
+   "location": "Greater Chennai Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-product-designer-at-broadcom-4470051314",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4479636836",
+   "title": "Senior Interaction Designer",
+   "company": "NVIDIA",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-interaction-designer-at-nvidia-4479636836",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4487625281",
+   "title": "Senior Product Designer",
+   "company": "Rempact",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-rempact-4487625281",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4367225868",
+   "title": "Product Designer",
+   "company": "Seismic",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-seismic-4367225868",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4463107633",
+   "title": "Senior UI / UX Designer - AI Hub",
+   "company": "Linde",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-ai-hub-at-linde-4463107633",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
+  },
+  {
+   "id": "li:4461103201",
+   "title": "Senior UI / UX Designer - AI Hub",
+   "company": "Linde@India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-ai-hub-at-linde%40india-4461103201",
+   "source": "LinkedIn",
+   "posted": "2026-11-07T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T01:44:04.081614+00:00"
   }
  ],
  "last_email_date": ""
