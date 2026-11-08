@@ -63,9 +63,33 @@
   "li:4479636836": "2026-11-08T01:44:04.081614+00:00",
   "li:4470051314": "2026-11-08T01:44:04.081614+00:00",
   "li:4488770674": "2026-11-08T14:53:57.836109+00:00",
-  "li:4477792027": "2026-11-08T14:53:57.836109+00:00"
+  "li:4477792027": "2026-11-08T14:53:57.836109+00:00",
+  "li:4486658816": "2026-11-08T19:15:24.476440+00:00",
+  "li:4487634639": "2026-11-08T19:15:24.476440+00:00"
  },
  "recent": [
+  {
+   "id": "li:4487634639",
+   "title": "User Experience Designer",
+   "company": "Zetheta Algorithms Private Limited",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-zetheta-algorithms-private-limited-4487634639",
+   "source": "LinkedIn",
+   "posted": "2026-11-08T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T19:15:24.476440+00:00"
+  },
+  {
+   "id": "li:4486658816",
+   "title": "UI/UX Designer - MacBook Required | $50-$60/Hour",
+   "company": "Hirely",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-macbook-required-%2450-%2460-hour-at-hirely-4486658816",
+   "source": "LinkedIn",
+   "posted": "2026-11-08T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T19:15:24.476440+00:00"
+  },
   {
    "id": "li:4477792027",
    "title": "Product Designer — WhatsApp India",
@@ -1343,6 +1367,28 @@
    "posted": "2026-11-08T00:00:00",
    "salary": "",
    "first_seen": "2026-11-08T14:53:57.836109+00:00"
+  },
+  {
+   "id": "li:4487634639",
+   "title": "User Experience Designer",
+   "company": "Zetheta Algorithms Private Limited",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-zetheta-algorithms-private-limited-4487634639",
+   "source": "LinkedIn",
+   "posted": "2026-11-08T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T19:15:24.476440+00:00"
+  },
+  {
+   "id": "li:4486658816",
+   "title": "UI/UX Designer - MacBook Required | $50-$60/Hour",
+   "company": "Hirely",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-macbook-required-%2450-%2460-hour-at-hirely-4486658816",
+   "source": "LinkedIn",
+   "posted": "2026-11-08T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-08T19:15:24.476440+00:00"
   }
  ],
  "last_email_date": ""
