@@ -68,9 +68,33 @@
   "li:4487634639": "2026-11-08T19:15:24.476440+00:00",
   "li:4487689229": "2026-11-09T10:06:41.462302+00:00",
   "li:4487687542": "2026-11-09T10:06:41.462302+00:00",
-  "li:4487674928": "2026-11-09T10:06:41.462302+00:00"
+  "li:4487674928": "2026-11-09T10:06:41.462302+00:00",
+  "li:4487153483": "2026-11-09T20:41:18.901630+00:00",
+  "li:4433135343": "2026-11-09T20:41:18.901630+00:00"
  },
  "recent": [
+  {
+   "id": "li:4433135343",
+   "title": "Senior Product Designer",
+   "company": "NOV",
+   "location": "Kochi, Kerala, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-nov-4433135343",
+   "source": "LinkedIn",
+   "posted": "2026-11-09T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-09T20:41:18.901630+00:00"
+  },
+  {
+   "id": "li:4487153483",
+   "title": "Product UX Designer",
+   "company": "Duruper",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-ux-designer-at-duruper-4487153483",
+   "source": "LinkedIn",
+   "posted": "2026-11-09T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-09T20:41:18.901630+00:00"
+  },
   {
    "id": "li:4487674928",
    "title": "#ACN  I&P - GN - SONG - AI & Data - Service - UI/UX - Consultant",
@@ -1458,6 +1482,28 @@
    "posted": "2026-11-09T00:00:00",
    "salary": "",
    "first_seen": "2026-11-09T10:06:41.462302+00:00"
+  },
+  {
+   "id": "li:4433135343",
+   "title": "Senior Product Designer",
+   "company": "NOV",
+   "location": "Kochi, Kerala, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-nov-4433135343",
+   "source": "LinkedIn",
+   "posted": "2026-11-09T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-09T20:41:18.901630+00:00"
+  },
+  {
+   "id": "li:4487153483",
+   "title": "Product UX Designer",
+   "company": "Duruper",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-ux-designer-at-duruper-4487153483",
+   "source": "LinkedIn",
+   "posted": "2026-11-09T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-09T20:41:18.901630+00:00"
   }
  ],
  "last_email_date": ""
