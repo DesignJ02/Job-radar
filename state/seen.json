@@ -71,9 +71,57 @@
   "li:4487674928": "2026-11-09T10:06:41.462302+00:00",
   "li:4487153483": "2026-11-09T20:41:18.901630+00:00",
   "li:4433135343": "2026-11-09T20:41:18.901630+00:00",
-  "li:4477884157": "2026-11-10T02:55:54.954412+00:00"
+  "li:4477884157": "2026-11-10T02:55:54.954412+00:00",
+  "li:4487462799": "2026-11-10T10:40:57.408671+00:00",
+  "li:4487444592": "2026-11-10T10:40:57.408671+00:00",
+  "li:4486970049": "2026-11-10T10:40:57.408671+00:00",
+  "li:4487452734": "2026-11-10T10:40:57.408671+00:00"
  },
  "recent": [
+  {
+   "id": "li:4487452734",
+   "title": "Senior UI/UX Designer, Motion and Interaction",
+   "company": "EduBridge Learning",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-motion-and-interaction-at-edubridge-learning-4487452734",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T10:40:57.408671+00:00"
+  },
+  {
+   "id": "li:4486970049",
+   "title": "UI/UX Designer",
+   "company": "Kickstart Digital",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-kickstart-digital-4486970049",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T10:40:57.408671+00:00"
+  },
+  {
+   "id": "li:4487444592",
+   "title": "Senior UX Designer",
+   "company": "MoxiWorks",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-moxiworks-4487444592",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T10:40:57.408671+00:00"
+  },
+  {
+   "id": "li:4487462799",
+   "title": "UI/UX Designer",
+   "company": "ThoughtSol Infotech Ltd.",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-thoughtsol-infotech-ltd-4487462799",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T10:40:57.408671+00:00"
+  },
   {
    "id": "li:4477884157",
    "title": "Senior Product Designer",
@@ -1527,6 +1575,50 @@
    "posted": "2026-11-09T00:00:00",
    "salary": "",
    "first_seen": "2026-11-10T02:55:54.954412+00:00"
+  },
+  {
+   "id": "li:4487452734",
+   "title": "Senior UI/UX Designer, Motion and Interaction",
+   "company": "EduBridge Learning",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-motion-and-interaction-at-edubridge-learning-4487452734",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T10:40:57.408671+00:00"
+  },
+  {
+   "id": "li:4486970049",
+   "title": "UI/UX Designer",
+   "company": "Kickstart Digital",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-kickstart-digital-4486970049",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T10:40:57.408671+00:00"
+  },
+  {
+   "id": "li:4487444592",
+   "title": "Senior UX Designer",
+   "company": "MoxiWorks",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-moxiworks-4487444592",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T10:40:57.408671+00:00"
+  },
+  {
+   "id": "li:4487462799",
+   "title": "UI/UX Designer",
+   "company": "ThoughtSol Infotech Ltd.",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-thoughtsol-infotech-ltd-4487462799",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T10:40:57.408671+00:00"
   }
  ],
  "last_email_date": ""
