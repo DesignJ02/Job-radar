@@ -70,9 +70,21 @@
   "li:4487687542": "2026-11-09T10:06:41.462302+00:00",
   "li:4487674928": "2026-11-09T10:06:41.462302+00:00",
   "li:4487153483": "2026-11-09T20:41:18.901630+00:00",
-  "li:4433135343": "2026-11-09T20:41:18.901630+00:00"
+  "li:4433135343": "2026-11-09T20:41:18.901630+00:00",
+  "li:4477884157": "2026-11-10T02:55:54.954412+00:00"
  },
  "recent": [
+  {
+   "id": "li:4477884157",
+   "title": "Senior Product Designer",
+   "company": "EarnIn",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-earnin-4477884157",
+   "source": "LinkedIn",
+   "posted": "2026-11-09T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T02:55:54.954412+00:00"
+  },
   {
    "id": "li:4433135343",
    "title": "Senior Product Designer",
@@ -1504,6 +1516,17 @@
    "posted": "2026-11-09T00:00:00",
    "salary": "",
    "first_seen": "2026-11-09T20:41:18.901630+00:00"
+  },
+  {
+   "id": "li:4477884157",
+   "title": "Senior Product Designer",
+   "company": "EarnIn",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-earnin-4477884157",
+   "source": "LinkedIn",
+   "posted": "2026-11-09T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-10T02:55:54.954412+00:00"
   }
  ],
  "last_email_date": ""
