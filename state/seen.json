@@ -83,9 +83,57 @@
   "li:4476309516": "2026-11-10T18:16:18.810160+00:00",
   "li:4481566591": "2026-11-10T18:16:18.810160+00:00",
   "li:4489492475": "2026-11-10T18:16:18.810160+00:00",
-  "li:4488316326": "2026-11-10T18:16:18.810160+00:00"
+  "li:4488316326": "2026-11-10T18:16:18.810160+00:00",
+  "li:4489669772": "2026-11-11T03:00:06.466663+00:00",
+  "li:4459958590": "2026-11-11T03:00:06.466663+00:00",
+  "li:4489463980": "2026-11-11T03:00:06.466663+00:00",
+  "li:4488612741": "2026-11-11T03:00:06.466663+00:00"
  },
  "recent": [
+  {
+   "id": "li:4488612741",
+   "title": "UI/UX Designer - 10 Openings",
+   "company": "sagaUX",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-10-openings-at-sagaux-4488612741",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T03:00:06.466663+00:00"
+  },
+  {
+   "id": "li:4489463980",
+   "title": "User Experience Designer",
+   "company": "Flexing It®",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-flexing-it%C2%AE-4489463980",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T03:00:06.466663+00:00"
+  },
+  {
+   "id": "li:4459958590",
+   "title": "Product Designer II",
+   "company": "Nielsen",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ii-at-nielsen-4459958590",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T03:00:06.466663+00:00"
+  },
+  {
+   "id": "li:4489669772",
+   "title": "UI / UX Designer",
+   "company": "Isha LIFE Health Solutions",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-isha-life-health-solutions-4489669772",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T03:00:06.466663+00:00"
+  },
   {
    "id": "li:4488316326",
    "title": "Senior UX Designer",
@@ -1803,6 +1851,50 @@
    "posted": "2026-11-10T00:00:00",
    "salary": "",
    "first_seen": "2026-11-10T18:16:18.810160+00:00"
+  },
+  {
+   "id": "li:4488612741",
+   "title": "UI/UX Designer - 10 Openings",
+   "company": "sagaUX",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-10-openings-at-sagaux-4488612741",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T03:00:06.466663+00:00"
+  },
+  {
+   "id": "li:4489463980",
+   "title": "User Experience Designer",
+   "company": "Flexing It®",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-flexing-it%C2%AE-4489463980",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T03:00:06.466663+00:00"
+  },
+  {
+   "id": "li:4459958590",
+   "title": "Product Designer II",
+   "company": "Nielsen",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ii-at-nielsen-4459958590",
+   "source": "LinkedIn",
+   "posted": "2026-11-10T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T03:00:06.466663+00:00"
+  },
+  {
+   "id": "li:4489669772",
+   "title": "UI / UX Designer",
+   "company": "Isha LIFE Health Solutions",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-isha-life-health-solutions-4489669772",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T03:00:06.466663+00:00"
   }
  ],
  "last_email_date": ""
