@@ -87,9 +87,57 @@
   "li:4489669772": "2026-11-11T03:00:06.466663+00:00",
   "li:4459958590": "2026-11-11T03:00:06.466663+00:00",
   "li:4489463980": "2026-11-11T03:00:06.466663+00:00",
-  "li:4488612741": "2026-11-11T03:00:06.466663+00:00"
+  "li:4488612741": "2026-11-11T03:00:06.466663+00:00",
+  "li:4487893858": "2026-11-11T10:35:52.350433+00:00",
+  "li:4454280482": "2026-11-11T10:35:52.350433+00:00",
+  "li:4471285756": "2026-11-11T10:35:52.350433+00:00",
+  "li:4488673278": "2026-11-11T10:35:52.350433+00:00"
  },
  "recent": [
+  {
+   "id": "li:4488673278",
+   "title": "Senior UI/UX Designer",
+   "company": "Proeze",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-at-proeze-4488673278",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T10:35:52.350433+00:00"
+  },
+  {
+   "id": "li:4471285756",
+   "title": "Senior Product Designer",
+   "company": "Qualys",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-qualys-4471285756",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T10:35:52.350433+00:00"
+  },
+  {
+   "id": "li:4454280482",
+   "title": "User Experience Designer",
+   "company": "Trane Technologies",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-trane-technologies-4454280482",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T10:35:52.350433+00:00"
+  },
+  {
+   "id": "li:4487893858",
+   "title": "uiux designer",
+   "company": "Swa:aha",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/uiux-designer-at-swa-aha-4487893858",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T10:35:52.350433+00:00"
+  },
   {
    "id": "li:4488612741",
    "title": "UI/UX Designer - 10 Openings",
@@ -1895,6 +1943,50 @@
    "posted": "2026-11-11T00:00:00",
    "salary": "",
    "first_seen": "2026-11-11T03:00:06.466663+00:00"
+  },
+  {
+   "id": "li:4488673278",
+   "title": "Senior UI/UX Designer",
+   "company": "Proeze",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-at-proeze-4488673278",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T10:35:52.350433+00:00"
+  },
+  {
+   "id": "li:4471285756",
+   "title": "Senior Product Designer",
+   "company": "Qualys",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-qualys-4471285756",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T10:35:52.350433+00:00"
+  },
+  {
+   "id": "li:4454280482",
+   "title": "User Experience Designer",
+   "company": "Trane Technologies",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-trane-technologies-4454280482",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T10:35:52.350433+00:00"
+  },
+  {
+   "id": "li:4487893858",
+   "title": "uiux designer",
+   "company": "Swa:aha",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/uiux-designer-at-swa-aha-4487893858",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-11T10:35:52.350433+00:00"
   }
  ],
  "last_email_date": ""
