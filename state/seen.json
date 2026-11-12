@@ -105,9 +105,81 @@
   "li:4489008843": "2026-11-11T18:02:35.955239+00:00",
   "li:4489058598": "2026-11-12T07:43:28.536157+00:00",
   "li:4489061843": "2026-11-12T07:43:28.536157+00:00",
-  "li:4488658956": "2026-11-12T07:43:28.536157+00:00"
+  "li:4488658956": "2026-11-12T07:43:28.536157+00:00",
+  "li:4489086454": "2026-11-12T16:18:21.839222+00:00",
+  "li:4454261654": "2026-11-12T16:18:21.839222+00:00",
+  "li:4482094096": "2026-11-12T16:18:21.839222+00:00",
+  "li:4488524047": "2026-11-12T16:18:21.839222+00:00",
+  "li:4490363554": "2026-11-12T16:18:21.839222+00:00",
+  "li:4489092349": "2026-11-12T16:18:21.839222+00:00"
  },
  "recent": [
+  {
+   "id": "li:4489092349",
+   "title": "Product Designer",
+   "company": "ViscoTrack",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-viscotrack-4489092349",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4490363554",
+   "title": "Senior User Experience Designer",
+   "company": "Akamai Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-at-akamai-technologies-4490363554",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4488524047",
+   "title": "UX Designer III",
+   "company": "Zemoso Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-iii-at-zemoso-technologies-4488524047",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4482094096",
+   "title": "Senior UX Designer",
+   "company": "Automation Anywhere",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-automation-anywhere-4482094096",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4454261654",
+   "title": "User Experience Designer",
+   "company": "Trane Technologies",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-trane-technologies-4454261654",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4489086454",
+   "title": "UI/UX Designer",
+   "company": "Grade Capital",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-grade-capital-4489086454",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
   {
    "id": "li:4488658956",
    "title": "UI/UX Designer - Prototypes, Wireframing, Adobe XD",
@@ -2309,6 +2381,72 @@
    "posted": "2026-11-12T00:00:00",
    "salary": "",
    "first_seen": "2026-11-12T07:43:28.536157+00:00"
+  },
+  {
+   "id": "li:4489092349",
+   "title": "Product Designer",
+   "company": "ViscoTrack",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-viscotrack-4489092349",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4490363554",
+   "title": "Senior User Experience Designer",
+   "company": "Akamai Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-at-akamai-technologies-4490363554",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4488524047",
+   "title": "UX Designer III",
+   "company": "Zemoso Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-iii-at-zemoso-technologies-4488524047",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4482094096",
+   "title": "Senior UX Designer",
+   "company": "Automation Anywhere",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-automation-anywhere-4482094096",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4454261654",
+   "title": "User Experience Designer",
+   "company": "Trane Technologies",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-trane-technologies-4454261654",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4489086454",
+   "title": "UI/UX Designer",
+   "company": "Grade Capital",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-grade-capital-4489086454",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T16:18:21.839222+00:00"
   }
  ],
  "last_email_date": ""
