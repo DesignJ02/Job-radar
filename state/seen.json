@@ -111,9 +111,69 @@
   "li:4482094096": "2026-11-12T16:18:21.839222+00:00",
   "li:4488524047": "2026-11-12T16:18:21.839222+00:00",
   "li:4490363554": "2026-11-12T16:18:21.839222+00:00",
-  "li:4489092349": "2026-11-12T16:18:21.839222+00:00"
+  "li:4489092349": "2026-11-12T16:18:21.839222+00:00",
+  "li:4489296205": "2026-11-12T22:21:36.112397+00:00",
+  "li:4489256058": "2026-11-12T22:21:36.112397+00:00",
+  "li:4471240274": "2026-11-12T22:21:36.112397+00:00",
+  "li:4490327632": "2026-11-12T22:21:36.112397+00:00",
+  "li:4489265987": "2026-11-12T22:21:36.112397+00:00"
  },
  "recent": [
+  {
+   "id": "li:4489265987",
+   "title": "UI/UX Designer (Figma/Prototype)",
+   "company": "Krwizard",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-figma-prototype-at-krwizard-4489265987",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4490327632",
+   "title": "UI/UX Designer",
+   "company": "The Premier Consultants ( Recruitment Company )",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-the-premier-consultants-recruitment-company-4490327632",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4471240274",
+   "title": "UI/ UX Expert - Performance Analytics & Reporting",
+   "company": "Novartis India",
+   "location": "Greater Hyderabad Area",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-expert-performance-analytics-reporting-at-novartis-india-4471240274",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4489256058",
+   "title": "Senior UI/UX Product Designer",
+   "company": "Micron Technology",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-product-designer-at-micron-technology-4489256058",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4489296205",
+   "title": "Senior User Experience Designer (UX Design Consultant)",
+   "company": "InRhythm",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-ux-design-consultant-at-inrhythm-4489296205",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
   {
    "id": "li:4489092349",
    "title": "Product Designer",
@@ -2447,6 +2507,61 @@
    "posted": "2026-11-12T00:00:00",
    "salary": "",
    "first_seen": "2026-11-12T16:18:21.839222+00:00"
+  },
+  {
+   "id": "li:4489265987",
+   "title": "UI/UX Designer (Figma/Prototype)",
+   "company": "Krwizard",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-figma-prototype-at-krwizard-4489265987",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4490327632",
+   "title": "UI/UX Designer",
+   "company": "The Premier Consultants ( Recruitment Company )",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-the-premier-consultants-recruitment-company-4490327632",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4471240274",
+   "title": "UI/ UX Expert - Performance Analytics & Reporting",
+   "company": "Novartis India",
+   "location": "Greater Hyderabad Area",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-expert-performance-analytics-reporting-at-novartis-india-4471240274",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4489256058",
+   "title": "Senior UI/UX Product Designer",
+   "company": "Micron Technology",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-product-designer-at-micron-technology-4489256058",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4489296205",
+   "title": "Senior User Experience Designer (UX Design Consultant)",
+   "company": "InRhythm",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-user-experience-designer-ux-design-consultant-at-inrhythm-4489296205",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T22:21:36.112397+00:00"
   }
  ],
  "last_email_date": ""
