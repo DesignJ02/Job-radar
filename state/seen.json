@@ -102,9 +102,45 @@
   "li:4473580878": "2026-11-11T18:02:35.955239+00:00",
   "li:4438058979": "2026-11-11T18:02:35.955239+00:00",
   "li:4429244267": "2026-11-11T18:02:35.955239+00:00",
-  "li:4489008843": "2026-11-11T18:02:35.955239+00:00"
+  "li:4489008843": "2026-11-11T18:02:35.955239+00:00",
+  "li:4489058598": "2026-11-12T07:43:28.536157+00:00",
+  "li:4489061843": "2026-11-12T07:43:28.536157+00:00",
+  "li:4488658956": "2026-11-12T07:43:28.536157+00:00"
  },
  "recent": [
+  {
+   "id": "li:4488658956",
+   "title": "UI/UX Designer - Prototypes, Wireframing, Adobe XD",
+   "company": "Violet Info",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-prototypes-wireframing-adobe-xd-at-violet-info-4488658956",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T07:43:28.536157+00:00"
+  },
+  {
+   "id": "li:4489061843",
+   "title": "AI interaction designer",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ai-interaction-designer-at-infosys-4489061843",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T07:43:28.536157+00:00"
+  },
+  {
+   "id": "li:4489058598",
+   "title": "UI/UX Designer",
+   "company": "Savvy Signature",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-savvy-signature-4489058598",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T07:43:28.536157+00:00"
+  },
   {
    "id": "li:4489008843",
    "title": "UI UX Designer",
@@ -2240,6 +2276,39 @@
    "posted": "2026-11-11T00:00:00",
    "salary": "",
    "first_seen": "2026-11-11T18:02:35.955239+00:00"
+  },
+  {
+   "id": "li:4488658956",
+   "title": "UI/UX Designer - Prototypes, Wireframing, Adobe XD",
+   "company": "Violet Info",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-prototypes-wireframing-adobe-xd-at-violet-info-4488658956",
+   "source": "LinkedIn",
+   "posted": "2026-11-11T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T07:43:28.536157+00:00"
+  },
+  {
+   "id": "li:4489061843",
+   "title": "AI interaction designer",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ai-interaction-designer-at-infosys-4489061843",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T07:43:28.536157+00:00"
+  },
+  {
+   "id": "li:4489058598",
+   "title": "UI/UX Designer",
+   "company": "Savvy Signature",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-savvy-signature-4489058598",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-12T07:43:28.536157+00:00"
   }
  ],
  "last_email_date": ""
