@@ -116,9 +116,21 @@
   "li:4489256058": "2026-11-12T22:21:36.112397+00:00",
   "li:4471240274": "2026-11-12T22:21:36.112397+00:00",
   "li:4490327632": "2026-11-12T22:21:36.112397+00:00",
-  "li:4489265987": "2026-11-12T22:21:36.112397+00:00"
+  "li:4489265987": "2026-11-12T22:21:36.112397+00:00",
+  "li:4490507772": "2026-11-13T02:44:16.416427+00:00"
  },
  "recent": [
+  {
+   "id": "li:4490507772",
+   "title": "Product Designer",
+   "company": "AIFISE",
+   "location": "Bhilai, Chhattisgarh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-aifise-4490507772",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T02:44:16.416427+00:00"
+  },
   {
    "id": "li:4489265987",
    "title": "UI/UX Designer (Figma/Prototype)",
@@ -2562,6 +2574,17 @@
    "posted": "2026-11-12T00:00:00",
    "salary": "",
    "first_seen": "2026-11-12T22:21:36.112397+00:00"
+  },
+  {
+   "id": "li:4490507772",
+   "title": "Product Designer",
+   "company": "AIFISE",
+   "location": "Bhilai, Chhattisgarh, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-aifise-4490507772",
+   "source": "LinkedIn",
+   "posted": "2026-11-12T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T02:44:16.416427+00:00"
   }
  ],
  "last_email_date": ""
