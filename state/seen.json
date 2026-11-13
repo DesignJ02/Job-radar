@@ -117,9 +117,69 @@
   "li:4471240274": "2026-11-12T22:21:36.112397+00:00",
   "li:4490327632": "2026-11-12T22:21:36.112397+00:00",
   "li:4489265987": "2026-11-12T22:21:36.112397+00:00",
-  "li:4490507772": "2026-11-13T02:44:16.416427+00:00"
+  "li:4490507772": "2026-11-13T02:44:16.416427+00:00",
+  "li:4488592762": "2026-11-13T10:01:58.855502+00:00",
+  "li:4480069968": "2026-11-13T10:01:58.855502+00:00",
+  "li:4488908307": "2026-11-13T10:01:58.855502+00:00",
+  "li:4489562158": "2026-11-13T10:01:58.855502+00:00",
+  "li:4488592750": "2026-11-13T10:01:58.855502+00:00"
  },
  "recent": [
+  {
+   "id": "li:4488592750",
+   "title": "UI/UX Designer",
+   "company": "Experiencious - India",
+   "location": "Vadodara, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-experiencious-india-4488592750",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4489562158",
+   "title": "Product Designer",
+   "company": "SeekOut",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-seekout-4489562158",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4488908307",
+   "title": "Senior Product Designer",
+   "company": "Curefit",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-curefit-4488908307",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4480069968",
+   "title": "Senior UX Designer, Marketplace & CX",
+   "company": "eBay",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-marketplace-cx-at-ebay-4480069968",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4488592762",
+   "title": "Product Designer (UI/UX)",
+   "company": "futureMBBS",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ui-ux-at-futurembbs-4488592762",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
   {
    "id": "li:4490507772",
    "title": "Product Designer",
@@ -2585,6 +2645,61 @@
    "posted": "2026-11-12T00:00:00",
    "salary": "",
    "first_seen": "2026-11-13T02:44:16.416427+00:00"
+  },
+  {
+   "id": "li:4488592750",
+   "title": "UI/UX Designer",
+   "company": "Experiencious - India",
+   "location": "Vadodara, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-experiencious-india-4488592750",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4489562158",
+   "title": "Product Designer",
+   "company": "SeekOut",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-seekout-4489562158",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4488908307",
+   "title": "Senior Product Designer",
+   "company": "Curefit",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-curefit-4488908307",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4480069968",
+   "title": "Senior UX Designer, Marketplace & CX",
+   "company": "eBay",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-marketplace-cx-at-ebay-4480069968",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4488592762",
+   "title": "Product Designer (UI/UX)",
+   "company": "futureMBBS",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ui-ux-at-futurembbs-4488592762",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T10:01:58.855502+00:00"
   }
  ],
  "last_email_date": ""
