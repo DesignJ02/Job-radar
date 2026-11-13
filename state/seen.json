@@ -122,9 +122,93 @@
   "li:4480069968": "2026-11-13T10:01:58.855502+00:00",
   "li:4488908307": "2026-11-13T10:01:58.855502+00:00",
   "li:4489562158": "2026-11-13T10:01:58.855502+00:00",
-  "li:4488592750": "2026-11-13T10:01:58.855502+00:00"
+  "li:4488592750": "2026-11-13T10:01:58.855502+00:00",
+  "li:4489572302": "2026-11-13T17:41:58.055395+00:00",
+  "li:4489558375": "2026-11-13T17:41:58.055395+00:00",
+  "li:4455701992": "2026-11-13T17:41:58.055395+00:00",
+  "li:4455786750": "2026-11-13T17:41:58.055395+00:00",
+  "li:4490712772": "2026-11-13T17:41:58.055395+00:00",
+  "li:4472543979": "2026-11-13T17:41:58.055395+00:00",
+  "li:4489556943": "2026-11-13T17:41:58.055395+00:00"
  },
  "recent": [
+  {
+   "id": "li:4489556943",
+   "title": "UI/UX Designer",
+   "company": "Techdome",
+   "location": "Indore, Madhya Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-techdome-4489556943",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4472543979",
+   "title": "Senior Product Designer",
+   "company": "Priceline",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-priceline-4472543979",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4490712772",
+   "title": "Senior Product Designer",
+   "company": "HSBC",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-hsbc-4490712772",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4455786750",
+   "title": "UX Designer I, EU INTech Partner Growth Experience",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-i-eu-intech-partner-growth-experience-at-amazon-4455786750",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4455701992",
+   "title": "Product Designer",
+   "company": "Coram AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-coram-ai-4455701992",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4489558375",
+   "title": "UI/UX Designer",
+   "company": "Decipher Financials",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-decipher-financials-4489558375",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4489572302",
+   "title": "UI/UX Designer",
+   "company": "Ciena",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-ciena-4489572302",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
   {
    "id": "li:4488592750",
    "title": "UI/UX Designer",
@@ -2700,6 +2784,83 @@
    "posted": "2026-11-13T00:00:00",
    "salary": "",
    "first_seen": "2026-11-13T10:01:58.855502+00:00"
+  },
+  {
+   "id": "li:4489556943",
+   "title": "UI/UX Designer",
+   "company": "Techdome",
+   "location": "Indore, Madhya Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-techdome-4489556943",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4472543979",
+   "title": "Senior Product Designer",
+   "company": "Priceline",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-priceline-4472543979",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4490712772",
+   "title": "Senior Product Designer",
+   "company": "HSBC",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-hsbc-4490712772",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4455786750",
+   "title": "UX Designer I, EU INTech Partner Growth Experience",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-i-eu-intech-partner-growth-experience-at-amazon-4455786750",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4455701992",
+   "title": "Product Designer",
+   "company": "Coram AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-coram-ai-4455701992",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4489558375",
+   "title": "UI/UX Designer",
+   "company": "Decipher Financials",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-decipher-financials-4489558375",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4489572302",
+   "title": "UI/UX Designer",
+   "company": "Ciena",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-ciena-4489572302",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T17:41:58.055395+00:00"
   }
  ],
  "last_email_date": ""
