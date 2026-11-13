@@ -129,9 +129,33 @@
   "li:4455786750": "2026-11-13T17:41:58.055395+00:00",
   "li:4490712772": "2026-11-13T17:41:58.055395+00:00",
   "li:4472543979": "2026-11-13T17:41:58.055395+00:00",
-  "li:4489556943": "2026-11-13T17:41:58.055395+00:00"
+  "li:4489556943": "2026-11-13T17:41:58.055395+00:00",
+  "li:4490764563": "2026-11-13T22:53:05.574277+00:00",
+  "li:4440785084": "2026-11-13T22:53:05.574277+00:00"
  },
  "recent": [
+  {
+   "id": "li:4440785084",
+   "title": "Senior Product Designer",
+   "company": "Route Mobile Limited",
+   "location": "Mumbai Metropolitan Region",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-route-mobile-limited-4440785084",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T22:53:05.574277+00:00"
+  },
+  {
+   "id": "li:4490764563",
+   "title": "UX Designer | Amazon Now, Amazon Now",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-amazon-now-amazon-now-at-amazon-4490764563",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T22:53:05.574277+00:00"
+  },
   {
    "id": "li:4489556943",
    "title": "UI/UX Designer",
@@ -2861,6 +2885,28 @@
    "posted": "2026-11-13T00:00:00",
    "salary": "",
    "first_seen": "2026-11-13T17:41:58.055395+00:00"
+  },
+  {
+   "id": "li:4440785084",
+   "title": "Senior Product Designer",
+   "company": "Route Mobile Limited",
+   "location": "Mumbai Metropolitan Region",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-route-mobile-limited-4440785084",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T22:53:05.574277+00:00"
+  },
+  {
+   "id": "li:4490764563",
+   "title": "UX Designer | Amazon Now, Amazon Now",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-amazon-now-amazon-now-at-amazon-4490764563",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-13T22:53:05.574277+00:00"
   }
  ],
  "last_email_date": ""
