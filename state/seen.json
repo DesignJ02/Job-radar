@@ -131,9 +131,21 @@
   "li:4472543979": "2026-11-13T17:41:58.055395+00:00",
   "li:4489556943": "2026-11-13T17:41:58.055395+00:00",
   "li:4490764563": "2026-11-13T22:53:05.574277+00:00",
-  "li:4440785084": "2026-11-13T22:53:05.574277+00:00"
+  "li:4440785084": "2026-11-13T22:53:05.574277+00:00",
+  "li:4489857745": "2026-11-14T09:40:18.349886+00:00"
  },
  "recent": [
+  {
+   "id": "li:4489857745",
+   "title": "Creative Designer – Real Estate | Reels & UI/UX",
+   "company": "VAIGAA PROPERTIES",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/creative-designer-%E2%80%93-real-estate-reels-ui-ux-at-vaigaa-properties-4489857745",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T09:40:18.349886+00:00"
+  },
   {
    "id": "li:4440785084",
    "title": "Senior Product Designer",
@@ -2907,6 +2919,17 @@
    "posted": "2026-11-13T00:00:00",
    "salary": "",
    "first_seen": "2026-11-13T22:53:05.574277+00:00"
+  },
+  {
+   "id": "li:4489857745",
+   "title": "Creative Designer – Real Estate | Reels & UI/UX",
+   "company": "VAIGAA PROPERTIES",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/creative-designer-%E2%80%93-real-estate-reels-ui-ux-at-vaigaa-properties-4489857745",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T09:40:18.349886+00:00"
   }
  ],
  "last_email_date": ""
