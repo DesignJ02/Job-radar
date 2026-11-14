@@ -132,9 +132,69 @@
   "li:4489556943": "2026-11-13T17:41:58.055395+00:00",
   "li:4490764563": "2026-11-13T22:53:05.574277+00:00",
   "li:4440785084": "2026-11-13T22:53:05.574277+00:00",
-  "li:4489857745": "2026-11-14T09:40:18.349886+00:00"
+  "li:4489857745": "2026-11-14T09:40:18.349886+00:00",
+  "li:4448390474": "2026-11-14T16:06:15.359180+00:00",
+  "li:4491058485": "2026-11-14T16:06:15.359180+00:00",
+  "li:4455917282": "2026-11-14T16:06:15.359180+00:00",
+  "li:4482161145": "2026-11-14T16:06:15.359180+00:00",
+  "li:4438640366": "2026-11-14T16:06:15.359180+00:00"
  },
  "recent": [
+  {
+   "id": "li:4438640366",
+   "title": "Vice President, Product Design - Pipeline Requisition",
+   "company": "BNY",
+   "location": "Pune/Pimpri-Chinchwad Area",
+   "url": "https://in.linkedin.com/jobs/view/vice-president-product-design-pipeline-requisition-at-bny-4438640366",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
+  {
+   "id": "li:4482161145",
+   "title": "Senior Product Designer",
+   "company": "Securin Inc.",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-securin-inc-4482161145",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
+  {
+   "id": "li:4455917282",
+   "title": "Sr. UX Designer, Amazon Customer Service",
+   "company": "Amazon",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ux-designer-amazon-customer-service-at-amazon-4455917282",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
+  {
+   "id": "li:4491058485",
+   "title": "Senior Product Designer (UX/UI)",
+   "company": "Revun",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-ux-ui-at-revun-4491058485",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
+  {
+   "id": "li:4448390474",
+   "title": "User Experience Designer",
+   "company": "Accenture in India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-accenture-in-india-4448390474",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
   {
    "id": "li:4489857745",
    "title": "Creative Designer – Real Estate | Reels & UI/UX",
@@ -2930,6 +2990,61 @@
    "posted": "2026-11-14T00:00:00",
    "salary": "",
    "first_seen": "2026-11-14T09:40:18.349886+00:00"
+  },
+  {
+   "id": "li:4438640366",
+   "title": "Vice President, Product Design - Pipeline Requisition",
+   "company": "BNY",
+   "location": "Pune/Pimpri-Chinchwad Area",
+   "url": "https://in.linkedin.com/jobs/view/vice-president-product-design-pipeline-requisition-at-bny-4438640366",
+   "source": "LinkedIn",
+   "posted": "2026-11-13T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
+  {
+   "id": "li:4482161145",
+   "title": "Senior Product Designer",
+   "company": "Securin Inc.",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-securin-inc-4482161145",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
+  {
+   "id": "li:4455917282",
+   "title": "Sr. UX Designer, Amazon Customer Service",
+   "company": "Amazon",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ux-designer-amazon-customer-service-at-amazon-4455917282",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
+  {
+   "id": "li:4491058485",
+   "title": "Senior Product Designer (UX/UI)",
+   "company": "Revun",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-ux-ui-at-revun-4491058485",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
+  },
+  {
+   "id": "li:4448390474",
+   "title": "User Experience Designer",
+   "company": "Accenture in India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-accenture-in-india-4448390474",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-14T16:06:15.359180+00:00"
   }
  ],
  "last_email_date": ""
