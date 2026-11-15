@@ -147,9 +147,33 @@
   "li:4489375411": "2026-11-15T06:54:02.812151+00:00",
   "li:4490215265": "2026-11-15T06:54:02.812151+00:00",
   "li:4446568877": "2026-11-15T14:26:48.518441+00:00",
-  "li:4490221433": "2026-11-15T14:26:48.518441+00:00"
+  "li:4490221433": "2026-11-15T14:26:48.518441+00:00",
+  "li:4456759187": "2026-11-15T19:53:26.849134+00:00",
+  "li:4490219454": "2026-11-15T19:53:26.849134+00:00"
  },
  "recent": [
+  {
+   "id": "li:4490219454",
+   "title": "User Experience Designer",
+   "company": "Zetheta Algorithms Private Limited",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-zetheta-algorithms-private-limited-4490219454",
+   "source": "LinkedIn",
+   "posted": "2026-11-15T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T19:53:26.849134+00:00"
+  },
+  {
+   "id": "li:4456759187",
+   "title": "Senior UX Designer",
+   "company": "MakeMyTrip",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-makemytrip-4456759187",
+   "source": "LinkedIn",
+   "posted": "2026-11-15T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T19:53:26.849134+00:00"
+  },
   {
    "id": "li:4490221433",
    "title": "UI/UX DESIGNER & QUALITY ASSURANCE SPECIALIST",
@@ -3275,6 +3299,28 @@
    "posted": "2026-11-15T00:00:00",
    "salary": "",
    "first_seen": "2026-11-15T14:26:48.518441+00:00"
+  },
+  {
+   "id": "li:4490219454",
+   "title": "User Experience Designer",
+   "company": "Zetheta Algorithms Private Limited",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-zetheta-algorithms-private-limited-4490219454",
+   "source": "LinkedIn",
+   "posted": "2026-11-15T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T19:53:26.849134+00:00"
+  },
+  {
+   "id": "li:4456759187",
+   "title": "Senior UX Designer",
+   "company": "MakeMyTrip",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-makemytrip-4456759187",
+   "source": "LinkedIn",
+   "posted": "2026-11-15T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T19:53:26.849134+00:00"
   }
  ],
  "last_email_date": ""
