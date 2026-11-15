@@ -145,9 +145,33 @@
   "li:4448355029": "2026-11-14T20:41:42.960045+00:00",
   "li:4489326098": "2026-11-15T00:17:57.300564+00:00",
   "li:4489375411": "2026-11-15T06:54:02.812151+00:00",
-  "li:4490215265": "2026-11-15T06:54:02.812151+00:00"
+  "li:4490215265": "2026-11-15T06:54:02.812151+00:00",
+  "li:4446568877": "2026-11-15T14:26:48.518441+00:00",
+  "li:4490221433": "2026-11-15T14:26:48.518441+00:00"
  },
  "recent": [
+  {
+   "id": "li:4490221433",
+   "title": "UI/UX DESIGNER & QUALITY ASSURANCE SPECIALIST",
+   "company": "HOSHŌ DIGITAL",
+   "location": "Guwahati, Assam, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-quality-assurance-specialist-at-hosh%C5%8D-digital-4490221433",
+   "source": "LinkedIn",
+   "posted": "2026-11-15T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T14:26:48.518441+00:00"
+  },
+  {
+   "id": "li:4446568877",
+   "title": "UI/UX Developer – Data & AI Solutions",
+   "company": "EXL",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-developer-%E2%80%93-data-ai-solutions-at-exl-4446568877",
+   "source": "LinkedIn",
+   "posted": "2026-11-15T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T14:26:48.518441+00:00"
+  },
   {
    "id": "li:4490215265",
    "title": "Product Designer",
@@ -3229,6 +3253,28 @@
    "posted": "2026-11-15T00:00:00",
    "salary": "",
    "first_seen": "2026-11-15T06:54:02.812151+00:00"
+  },
+  {
+   "id": "li:4490221433",
+   "title": "UI/UX DESIGNER & QUALITY ASSURANCE SPECIALIST",
+   "company": "HOSHŌ DIGITAL",
+   "location": "Guwahati, Assam, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-quality-assurance-specialist-at-hosh%C5%8D-digital-4490221433",
+   "source": "LinkedIn",
+   "posted": "2026-11-15T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T14:26:48.518441+00:00"
+  },
+  {
+   "id": "li:4446568877",
+   "title": "UI/UX Developer – Data & AI Solutions",
+   "company": "EXL",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-developer-%E2%80%93-data-ai-solutions-at-exl-4446568877",
+   "source": "LinkedIn",
+   "posted": "2026-11-15T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T14:26:48.518441+00:00"
   }
  ],
  "last_email_date": ""
