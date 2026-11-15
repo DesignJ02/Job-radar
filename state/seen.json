@@ -142,9 +142,21 @@
   "li:4489895688": "2026-11-14T20:41:42.960045+00:00",
   "li:4489349821": "2026-11-14T20:41:42.960045+00:00",
   "li:4489850883": "2026-11-14T20:41:42.960045+00:00",
-  "li:4448355029": "2026-11-14T20:41:42.960045+00:00"
+  "li:4448355029": "2026-11-14T20:41:42.960045+00:00",
+  "li:4489326098": "2026-11-15T00:17:57.300564+00:00"
  },
  "recent": [
+  {
+   "id": "li:4489326098",
+   "title": "UI/UX Designer",
+   "company": "Adept Global",
+   "location": "Mumbai Metropolitan Region",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-adept-global-4489326098",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T00:17:57.300564+00:00"
+  },
   {
    "id": "li:4448355029",
    "title": "User Experience Designer",
@@ -3160,6 +3172,17 @@
    "posted": "2026-11-14T00:00:00",
    "salary": "",
    "first_seen": "2026-11-14T20:41:42.960045+00:00"
+  },
+  {
+   "id": "li:4489326098",
+   "title": "UI/UX Designer",
+   "company": "Adept Global",
+   "location": "Mumbai Metropolitan Region",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-adept-global-4489326098",
+   "source": "LinkedIn",
+   "posted": "2026-11-14T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-15T00:17:57.300564+00:00"
   }
  ],
  "last_email_date": ""
