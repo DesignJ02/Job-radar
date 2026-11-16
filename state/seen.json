@@ -150,9 +150,21 @@
   "li:4490221433": "2026-11-15T14:26:48.518441+00:00",
   "li:4456759187": "2026-11-15T19:53:26.849134+00:00",
   "li:4490219454": "2026-11-15T19:53:26.849134+00:00",
-  "li:4490240583": "2026-11-15T23:40:18.288371+00:00"
+  "li:4490240583": "2026-11-15T23:40:18.288371+00:00",
+  "li:4489720016": "2026-11-16T03:07:31.480937+00:00"
  },
  "recent": [
+  {
+   "id": "li:4489720016",
+   "title": "Product Designer",
+   "company": "Techs to Suit Inc",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-techs-to-suit-inc-4489720016",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T03:07:31.480937+00:00"
+  },
   {
    "id": "li:4490240583",
    "title": "Senior Product Designer",
@@ -3344,6 +3356,17 @@
    "posted": "2026-11-15T00:00:00",
    "salary": "",
    "first_seen": "2026-11-15T23:40:18.288371+00:00"
+  },
+  {
+   "id": "li:4489720016",
+   "title": "Product Designer",
+   "company": "Techs to Suit Inc",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-techs-to-suit-inc-4489720016",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T03:07:31.480937+00:00"
   }
  ],
  "last_email_date": ""
