@@ -151,9 +151,117 @@
   "li:4456759187": "2026-11-15T19:53:26.849134+00:00",
   "li:4490219454": "2026-11-15T19:53:26.849134+00:00",
   "li:4490240583": "2026-11-15T23:40:18.288371+00:00",
-  "li:4489720016": "2026-11-16T03:07:31.480937+00:00"
+  "li:4489720016": "2026-11-16T03:07:31.480937+00:00",
+  "li:4489722908": "2026-11-16T11:06:43.031634+00:00",
+  "li:4491298497": "2026-11-16T11:06:43.031634+00:00",
+  "li:4490269526": "2026-11-16T11:06:43.031634+00:00",
+  "li:4489738189": "2026-11-16T11:06:43.031634+00:00",
+  "li:4489719648": "2026-11-16T11:06:43.031634+00:00",
+  "li:4490256754": "2026-11-16T11:06:43.031634+00:00",
+  "li:4491513101": "2026-11-16T11:06:43.031634+00:00",
+  "li:4491506078": "2026-11-16T11:06:43.031634+00:00",
+  "li:4489718392": "2026-11-16T11:06:43.031634+00:00"
  },
  "recent": [
+  {
+   "id": "li:4489718392",
+   "title": "UI/UX Designer",
+   "company": "Experiencious - India",
+   "location": "Vadodara, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-experiencious-india-4489718392",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4491506078",
+   "title": "Senior UI/UX Designer – AI-Native Products",
+   "company": "Incedo Inc.",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-%E2%80%93-ai-native-products-at-incedo-inc-4491506078",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4491513101",
+   "title": "UX Designer",
+   "company": "Prodapt",
+   "location": "Greater Chennai Area",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-prodapt-4491513101",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4490256754",
+   "title": "UI/UX Designer",
+   "company": "Elephant in the Boardroom",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-elephant-in-the-boardroom-4490256754",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4489719648",
+   "title": "UI/UX Designer",
+   "company": "SharepointEmpower Pvt. Ltd.",
+   "location": "Rajkot, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-sharepointempower-pvt-ltd-4489719648",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4489738189",
+   "title": "UI/UX Designer",
+   "company": "Artha Group",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-artha-group-4489738189",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4490269526",
+   "title": "Senior UX Designer",
+   "company": "Virtana Corp.",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-virtana-corp-4490269526",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4491298497",
+   "title": "Digital Product Designer [T500-30767]",
+   "company": "Albertsons Companies India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/digital-product-designer-t500-30767-at-albertsons-companies-india-4491298497",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4489722908",
+   "title": "UX Designer, Professional I",
+   "company": "Zebra Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-professional-i-at-zebra-technologies-4489722908",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
   {
    "id": "li:4489720016",
    "title": "Product Designer",
@@ -3367,6 +3475,105 @@
    "posted": "2026-11-16T00:00:00",
    "salary": "",
    "first_seen": "2026-11-16T03:07:31.480937+00:00"
+  },
+  {
+   "id": "li:4489718392",
+   "title": "UI/UX Designer",
+   "company": "Experiencious - India",
+   "location": "Vadodara, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-experiencious-india-4489718392",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4491506078",
+   "title": "Senior UI/UX Designer – AI-Native Products",
+   "company": "Incedo Inc.",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ui-ux-designer-%E2%80%93-ai-native-products-at-incedo-inc-4491506078",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4491513101",
+   "title": "UX Designer",
+   "company": "Prodapt",
+   "location": "Greater Chennai Area",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-prodapt-4491513101",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4490256754",
+   "title": "UI/UX Designer",
+   "company": "Elephant in the Boardroom",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-elephant-in-the-boardroom-4490256754",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4489719648",
+   "title": "UI/UX Designer",
+   "company": "SharepointEmpower Pvt. Ltd.",
+   "location": "Rajkot, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-sharepointempower-pvt-ltd-4489719648",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4489738189",
+   "title": "UI/UX Designer",
+   "company": "Artha Group",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-artha-group-4489738189",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4490269526",
+   "title": "Senior UX Designer",
+   "company": "Virtana Corp.",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-virtana-corp-4490269526",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4491298497",
+   "title": "Digital Product Designer [T500-30767]",
+   "company": "Albertsons Companies India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/digital-product-designer-t500-30767-at-albertsons-companies-india-4491298497",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
+  },
+  {
+   "id": "li:4489722908",
+   "title": "UX Designer, Professional I",
+   "company": "Zebra Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-professional-i-at-zebra-technologies-4489722908",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-16T11:06:43.031634+00:00"
   }
  ],
  "last_email_date": ""
