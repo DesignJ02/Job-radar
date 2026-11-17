@@ -168,9 +168,117 @@
   "li:4490608605": "2026-11-16T20:59:19.635649+00:00",
   "li:4490601270": "2026-11-16T20:59:19.635649+00:00",
   "li:4489777860": "2026-11-16T20:59:19.635649+00:00",
-  "li:4490287473": "2026-11-16T20:59:19.635649+00:00"
+  "li:4490287473": "2026-11-16T20:59:19.635649+00:00",
+  "li:4490996737": "2026-11-17T12:27:21.113551+00:00",
+  "li:4491154249": "2026-11-17T12:27:21.113551+00:00",
+  "li:4488302946": "2026-11-17T12:27:21.113551+00:00",
+  "li:4490420808": "2026-11-17T12:27:21.113551+00:00",
+  "li:4483726590": "2026-11-17T12:27:21.113551+00:00",
+  "li:4489727839": "2026-11-17T12:27:21.113551+00:00",
+  "li:4491162386": "2026-11-17T12:27:21.113551+00:00",
+  "li:4491137450": "2026-11-17T12:27:21.113551+00:00",
+  "li:4490676973": "2026-11-17T12:27:21.113551+00:00"
  },
  "recent": [
+  {
+   "id": "li:4490676973",
+   "title": "EbizON || UI/UX Designer || Dehradun",
+   "company": "EbizON",
+   "location": "Dehradun, Uttarakhand, India",
+   "url": "https://in.linkedin.com/jobs/view/ebizon-ui-ux-designer-dehradun-at-ebizon-4490676973",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4491137450",
+   "title": "Product Designer",
+   "company": "KodeKloud",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-kodekloud-4491137450",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4491162386",
+   "title": "UI/UX DESIGNER",
+   "company": "RMoney",
+   "location": "Agra, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-rmoney-4491162386",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4489727839",
+   "title": "UI/UX Designer",
+   "company": "Balancenutrition.in",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-balancenutrition-in-4489727839",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4483726590",
+   "title": "UX Designer",
+   "company": "Xurrent",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-xurrent-4483726590",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4490420808",
+   "title": "Sr. Product Designer- Experience Design",
+   "company": "Eli Lilly and Company",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-experience-design-at-eli-lilly-and-company-4490420808",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4488302946",
+   "title": "Product Designer",
+   "company": "Vayu- Design for living",
+   "location": "New Delhi, Delhi, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-vayu-design-for-living-4488302946",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4491154249",
+   "title": "UI/UX Designer",
+   "company": "Zyla Health",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-zyla-health-4491154249",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4490996737",
+   "title": "User Experience Designer",
+   "company": "OneBanc",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-onebanc-4490996737",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
   {
    "id": "li:4490287473",
    "title": "Senior UX Designer",
@@ -3758,6 +3866,105 @@
    "posted": "2026-11-16T00:00:00",
    "salary": "",
    "first_seen": "2026-11-16T20:59:19.635649+00:00"
+  },
+  {
+   "id": "li:4490676973",
+   "title": "EbizON || UI/UX Designer || Dehradun",
+   "company": "EbizON",
+   "location": "Dehradun, Uttarakhand, India",
+   "url": "https://in.linkedin.com/jobs/view/ebizon-ui-ux-designer-dehradun-at-ebizon-4490676973",
+   "source": "LinkedIn",
+   "posted": "2026-11-16T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4491137450",
+   "title": "Product Designer",
+   "company": "KodeKloud",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-kodekloud-4491137450",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4491162386",
+   "title": "UI/UX DESIGNER",
+   "company": "RMoney",
+   "location": "Agra, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-rmoney-4491162386",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4489727839",
+   "title": "UI/UX Designer",
+   "company": "Balancenutrition.in",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-balancenutrition-in-4489727839",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4483726590",
+   "title": "UX Designer",
+   "company": "Xurrent",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-xurrent-4483726590",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4490420808",
+   "title": "Sr. Product Designer- Experience Design",
+   "company": "Eli Lilly and Company",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-experience-design-at-eli-lilly-and-company-4490420808",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4488302946",
+   "title": "Product Designer",
+   "company": "Vayu- Design for living",
+   "location": "New Delhi, Delhi, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-vayu-design-for-living-4488302946",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4491154249",
+   "title": "UI/UX Designer",
+   "company": "Zyla Health",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-zyla-health-4491154249",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4490996737",
+   "title": "User Experience Designer",
+   "company": "OneBanc",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-onebanc-4490996737",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T12:27:21.113551+00:00"
   }
  ],
  "last_email_date": ""
