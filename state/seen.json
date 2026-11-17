@@ -177,9 +177,69 @@
   "li:4489727839": "2026-11-17T12:27:21.113551+00:00",
   "li:4491162386": "2026-11-17T12:27:21.113551+00:00",
   "li:4491137450": "2026-11-17T12:27:21.113551+00:00",
-  "li:4490676973": "2026-11-17T12:27:21.113551+00:00"
+  "li:4490676973": "2026-11-17T12:27:21.113551+00:00",
+  "li:4486597441": "2026-11-17T21:12:26.774333+00:00",
+  "li:4473649766": "2026-11-17T21:12:26.774333+00:00",
+  "li:4491598352": "2026-11-17T21:12:26.774333+00:00",
+  "li:4474059808": "2026-11-17T21:12:26.774333+00:00",
+  "li:4491176040": "2026-11-17T21:12:26.774333+00:00"
  },
  "recent": [
+  {
+   "id": "li:4491176040",
+   "title": "Sr UX Designer",
+   "company": "Lemon Yellow LLP",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ux-designer-at-lemon-yellow-llp-4491176040",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4474059808",
+   "title": "Senior Product Designer",
+   "company": "Arcadis",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-arcadis-4474059808",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4491598352",
+   "title": "Sr. Product Designer- Interaction Design",
+   "company": "Eli Lilly and Company",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-interaction-design-at-eli-lilly-and-company-4491598352",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4473649766",
+   "title": "Senior Product Designer II",
+   "company": "Nielsen",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-ii-at-nielsen-4473649766",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4486597441",
+   "title": "Sr Product Designer",
+   "company": "Target",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-4486597441",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
   {
    "id": "li:4490676973",
    "title": "EbizON || UI/UX Designer || Dehradun",
@@ -3965,6 +4025,61 @@
    "posted": "2026-11-17T00:00:00",
    "salary": "",
    "first_seen": "2026-11-17T12:27:21.113551+00:00"
+  },
+  {
+   "id": "li:4491176040",
+   "title": "Sr UX Designer",
+   "company": "Lemon Yellow LLP",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ux-designer-at-lemon-yellow-llp-4491176040",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4474059808",
+   "title": "Senior Product Designer",
+   "company": "Arcadis",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-arcadis-4474059808",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4491598352",
+   "title": "Sr. Product Designer- Interaction Design",
+   "company": "Eli Lilly and Company",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-interaction-design-at-eli-lilly-and-company-4491598352",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4473649766",
+   "title": "Senior Product Designer II",
+   "company": "Nielsen",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-ii-at-nielsen-4473649766",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4486597441",
+   "title": "Sr Product Designer",
+   "company": "Target",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-4486597441",
+   "source": "LinkedIn",
+   "posted": "2026-11-17T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-17T21:12:26.774333+00:00"
   }
  ],
  "last_email_date": ""
