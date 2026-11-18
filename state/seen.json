@@ -182,9 +182,117 @@
   "li:4473649766": "2026-11-17T21:12:26.774333+00:00",
   "li:4491598352": "2026-11-17T21:12:26.774333+00:00",
   "li:4474059808": "2026-11-17T21:12:26.774333+00:00",
-  "li:4491176040": "2026-11-17T21:12:26.774333+00:00"
+  "li:4491176040": "2026-11-17T21:12:26.774333+00:00",
+  "li:4490854653": "2026-11-18T10:55:40.388561+00:00",
+  "li:4490854027": "2026-11-18T10:55:40.388561+00:00",
+  "li:4491485821": "2026-11-18T10:55:40.388561+00:00",
+  "li:4491481533": "2026-11-18T10:55:40.388561+00:00",
+  "li:4491803598": "2026-11-18T10:55:40.388561+00:00",
+  "li:4491814327": "2026-11-18T10:55:40.388561+00:00",
+  "li:4490857530": "2026-11-18T10:55:40.388561+00:00",
+  "li:4491472644": "2026-11-18T10:55:40.388561+00:00",
+  "li:4491157706": "2026-11-18T10:55:40.388561+00:00"
  },
  "recent": [
+  {
+   "id": "li:4491157706",
+   "title": "UX UI Designer",
+   "company": "DIAGNAL",
+   "location": "Thiruvananthapuram, Kerala, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-ui-designer-at-diagnal-4491157706",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491472644",
+   "title": "Founding Product Designer",
+   "company": "Isomorph AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/founding-product-designer-at-isomorph-ai-4491472644",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4490857530",
+   "title": "Senior Product Designer",
+   "company": "Okta",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-okta-4490857530",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491814327",
+   "title": "Product Designer 2",
+   "company": "Newton School",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-2-at-newton-school-4491814327",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491803598",
+   "title": "Senior Product Designer",
+   "company": "MoEngage",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-moengage-4491803598",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491481533",
+   "title": "Sr Product Designer",
+   "company": "Target in India",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-in-india-4491481533",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491485821",
+   "title": "Senior Product UI/UX Designer",
+   "company": "Neo Media Group Ltd",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-ui-ux-designer-at-neo-media-group-ltd-4491485821",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4490854027",
+   "title": "UI/UX Designer",
+   "company": "ThoughtSol Infotech Ltd.",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-thoughtsol-infotech-ltd-4490854027",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4490854653",
+   "title": "UX/UI Designer",
+   "company": "RankWatch Inc.",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-ui-designer-at-rankwatch-inc-4490854653",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
   {
    "id": "li:4491176040",
    "title": "Sr UX Designer",
@@ -4080,6 +4188,105 @@
    "posted": "2026-11-17T00:00:00",
    "salary": "",
    "first_seen": "2026-11-17T21:12:26.774333+00:00"
+  },
+  {
+   "id": "li:4491157706",
+   "title": "UX UI Designer",
+   "company": "DIAGNAL",
+   "location": "Thiruvananthapuram, Kerala, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-ui-designer-at-diagnal-4491157706",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491472644",
+   "title": "Founding Product Designer",
+   "company": "Isomorph AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/founding-product-designer-at-isomorph-ai-4491472644",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4490857530",
+   "title": "Senior Product Designer",
+   "company": "Okta",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-okta-4490857530",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491814327",
+   "title": "Product Designer 2",
+   "company": "Newton School",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-2-at-newton-school-4491814327",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491803598",
+   "title": "Senior Product Designer",
+   "company": "MoEngage",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-moengage-4491803598",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491481533",
+   "title": "Sr Product Designer",
+   "company": "Target in India",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-in-india-4491481533",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4491485821",
+   "title": "Senior Product UI/UX Designer",
+   "company": "Neo Media Group Ltd",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-ui-ux-designer-at-neo-media-group-ltd-4491485821",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4490854027",
+   "title": "UI/UX Designer",
+   "company": "ThoughtSol Infotech Ltd.",
+   "location": "Noida, Uttar Pradesh, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-thoughtsol-infotech-ltd-4490854027",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
+  },
+  {
+   "id": "li:4490854653",
+   "title": "UX/UI Designer",
+   "company": "RankWatch Inc.",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-ui-designer-at-rankwatch-inc-4490854653",
+   "source": "LinkedIn",
+   "posted": "2026-11-18T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-18T10:55:40.388561+00:00"
   }
  ],
  "last_email_date": ""
