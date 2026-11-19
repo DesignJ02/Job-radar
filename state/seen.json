@@ -199,9 +199,21 @@
   "li:4491822946": "2026-11-18T19:13:02.463576+00:00",
   "li:4492050387": "2026-11-18T19:13:02.463576+00:00",
   "li:4491875709": "2026-11-18T19:13:02.463576+00:00",
-  "li:4491808611": "2026-11-18T19:13:02.463576+00:00"
+  "li:4491808611": "2026-11-18T19:13:02.463576+00:00",
+  "li:4491357499": "2026-11-19T01:13:22.536556+00:00"
  },
  "recent": [
+  {
+   "id": "li:4491357499",
+   "title": "UX Designer",
+   "company": "NETGEAR",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-netgear-4491357499",
+   "source": "LinkedIn",
+   "posted": "2026-11-19T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-19T01:13:22.536556+00:00"
+  },
   {
    "id": "li:4491808611",
    "title": "UI/ UX Designer",
@@ -4471,6 +4483,17 @@
    "posted": "2026-11-18T00:00:00",
    "salary": "",
    "first_seen": "2026-11-18T19:13:02.463576+00:00"
+  },
+  {
+   "id": "li:4491357499",
+   "title": "UX Designer",
+   "company": "NETGEAR",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-netgear-4491357499",
+   "source": "LinkedIn",
+   "posted": "2026-11-19T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-19T01:13:22.536556+00:00"
   }
  ],
  "last_email_date": ""
