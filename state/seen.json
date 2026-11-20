@@ -227,9 +227,57 @@
   "li:4492584386": "2026-11-20T16:06:12.959844+00:00",
   "li:4492535704": "2026-11-20T16:06:12.959844+00:00",
   "li:4490856581": "2026-11-20T16:06:12.959844+00:00",
-  "li:4492478217": "2026-11-20T16:06:12.959844+00:00"
+  "li:4492478217": "2026-11-20T16:06:12.959844+00:00",
+  "li:4477166566": "2026-11-20T22:39:09.397670+00:00",
+  "li:4492840643": "2026-11-20T22:39:09.397670+00:00",
+  "li:4492980350": "2026-11-20T22:39:09.397670+00:00",
+  "li:4492531844": "2026-11-20T22:39:09.397670+00:00"
  },
  "recent": [
+  {
+   "id": "li:4492531844",
+   "title": "Senior\nUX/UI\nDesigner\n1",
+   "company": "Aglet",
+   "location": "North Lakhimpur, Assam, India",
+   "url": "https://in.linkedin.com/jobs/view/senior%0Aux-ui%0Adesigner%0A1-at-aglet-4492531844",
+   "source": "LinkedIn",
+   "posted": "2026-11-20T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T22:39:09.397670+00:00"
+  },
+  {
+   "id": "li:4492980350",
+   "title": "Senior UX Designer, Design",
+   "company": "Amazon",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-design-at-amazon-4492980350",
+   "source": "LinkedIn",
+   "posted": "2026-11-20T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T22:39:09.397670+00:00"
+  },
+  {
+   "id": "li:4492840643",
+   "title": "Senior Product Designer",
+   "company": "Creditspring",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-creditspring-4492840643",
+   "source": "LinkedIn",
+   "posted": "2026-11-20T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T22:39:09.397670+00:00"
+  },
+  {
+   "id": "li:4477166566",
+   "title": "Product Designer -II",
+   "company": "Microsoft",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ii-at-microsoft-4477166566",
+   "source": "LinkedIn",
+   "posted": "2026-11-20T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T22:39:09.397670+00:00"
+  },
   {
    "id": "li:4492478217",
    "title": "Sr UI/UX Designer",
@@ -5115,6 +5163,50 @@
    "posted": "2026-11-20T00:00:00",
    "salary": "",
    "first_seen": "2026-11-20T16:06:12.959844+00:00"
+  },
+  {
+   "id": "li:4492531844",
+   "title": "Senior\nUX/UI\nDesigner\n1",
+   "company": "Aglet",
+   "location": "North Lakhimpur, Assam, India",
+   "url": "https://in.linkedin.com/jobs/view/senior%0Aux-ui%0Adesigner%0A1-at-aglet-4492531844",
+   "source": "LinkedIn",
+   "posted": "2026-11-20T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T22:39:09.397670+00:00"
+  },
+  {
+   "id": "li:4492980350",
+   "title": "Senior UX Designer, Design",
+   "company": "Amazon",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-design-at-amazon-4492980350",
+   "source": "LinkedIn",
+   "posted": "2026-11-20T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T22:39:09.397670+00:00"
+  },
+  {
+   "id": "li:4492840643",
+   "title": "Senior Product Designer",
+   "company": "Creditspring",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-creditspring-4492840643",
+   "source": "LinkedIn",
+   "posted": "2026-11-20T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T22:39:09.397670+00:00"
+  },
+  {
+   "id": "li:4477166566",
+   "title": "Product Designer -II",
+   "company": "Microsoft",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ii-at-microsoft-4477166566",
+   "source": "LinkedIn",
+   "posted": "2026-11-20T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T22:39:09.397670+00:00"
   }
  ],
  "last_email_date": ""
