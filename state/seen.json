@@ -210,9 +210,45 @@
   "li:4491388676": "2026-11-19T17:51:32.539602+00:00",
   "li:4484759501": "2026-11-19T17:51:32.539602+00:00",
   "li:4492416188": "2026-11-19T17:51:32.539602+00:00",
-  "li:4492153813": "2026-11-19T17:51:32.539602+00:00"
+  "li:4492153813": "2026-11-19T17:51:32.539602+00:00",
+  "li:4492475007": "2026-11-20T00:04:35.552445+00:00",
+  "li:4492161863": "2026-11-20T00:04:35.552445+00:00",
+  "li:4492299778": "2026-11-20T00:04:35.552445+00:00"
  },
  "recent": [
+  {
+   "id": "li:4492299778",
+   "title": "Product Designer",
+   "company": "Talent Toppers",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-talent-toppers-4492299778",
+   "source": "LinkedIn",
+   "posted": "2026-11-19T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T00:04:35.552445+00:00"
+  },
+  {
+   "id": "li:4492161863",
+   "title": "Senior Product Designer - Flights",
+   "company": "Priceline",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-flights-at-priceline-4492161863",
+   "source": "LinkedIn",
+   "posted": "2026-11-19T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T00:04:35.552445+00:00"
+  },
+  {
+   "id": "li:4492475007",
+   "title": "Product Designer",
+   "company": "Bajaj Finserv",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-bajaj-finserv-4492475007",
+   "source": "LinkedIn",
+   "posted": "2026-11-19T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T00:04:35.552445+00:00"
+  },
   {
    "id": "li:4492153813",
    "title": "Adobe Photoshop, Illustrator & InDesign | Template & UI/UX Review",
@@ -4724,6 +4760,39 @@
    "posted": "2026-11-19T00:00:00",
    "salary": "",
    "first_seen": "2026-11-19T17:51:32.539602+00:00"
+  },
+  {
+   "id": "li:4492299778",
+   "title": "Product Designer",
+   "company": "Talent Toppers",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-talent-toppers-4492299778",
+   "source": "LinkedIn",
+   "posted": "2026-11-19T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T00:04:35.552445+00:00"
+  },
+  {
+   "id": "li:4492161863",
+   "title": "Senior Product Designer - Flights",
+   "company": "Priceline",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-flights-at-priceline-4492161863",
+   "source": "LinkedIn",
+   "posted": "2026-11-19T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T00:04:35.552445+00:00"
+  },
+  {
+   "id": "li:4492475007",
+   "title": "Product Designer",
+   "company": "Bajaj Finserv",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-bajaj-finserv-4492475007",
+   "source": "LinkedIn",
+   "posted": "2026-11-19T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-20T00:04:35.552445+00:00"
   }
  ],
  "last_email_date": ""
