@@ -231,9 +231,69 @@
   "li:4477166566": "2026-11-20T22:39:09.397670+00:00",
   "li:4492840643": "2026-11-20T22:39:09.397670+00:00",
   "li:4492980350": "2026-11-20T22:39:09.397670+00:00",
-  "li:4492531844": "2026-11-20T22:39:09.397670+00:00"
+  "li:4492531844": "2026-11-20T22:39:09.397670+00:00",
+  "li:4493271059": "2026-11-21T18:12:14.105764+00:00",
+  "li:4475620155": "2026-11-21T18:12:14.105764+00:00",
+  "li:4492867892": "2026-11-21T18:12:14.105764+00:00",
+  "li:4493247847": "2026-11-21T18:12:14.105764+00:00",
+  "li:4493255775": "2026-11-21T18:12:14.105764+00:00"
  },
  "recent": [
+  {
+   "id": "li:4493255775",
+   "title": "Product Designer",
+   "company": "Bajaj Finserv",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-bajaj-finserv-4493255775",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
+  {
+   "id": "li:4493247847",
+   "title": "UI/UX designer",
+   "company": "Febla Technologies",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-febla-technologies-4493247847",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
+  {
+   "id": "li:4492867892",
+   "title": "UI/UX Designer - SAAS",
+   "company": "Tvaram",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-saas-at-tvaram-4492867892",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
+  {
+   "id": "li:4475620155",
+   "title": "Product Designer — WhatsApp India",
+   "company": "WhatsApp",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-%E2%80%94-whatsapp-india-at-whatsapp-4475620155",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
+  {
+   "id": "li:4493271059",
+   "title": "Senior Product Designer",
+   "company": "ServiceTitan",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-servicetitan-4493271059",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
   {
    "id": "li:4492531844",
    "title": "Senior\nUX/UI\nDesigner\n1",
@@ -5207,6 +5267,61 @@
    "posted": "2026-11-20T00:00:00",
    "salary": "",
    "first_seen": "2026-11-20T22:39:09.397670+00:00"
+  },
+  {
+   "id": "li:4493255775",
+   "title": "Product Designer",
+   "company": "Bajaj Finserv",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-bajaj-finserv-4493255775",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
+  {
+   "id": "li:4493247847",
+   "title": "UI/UX designer",
+   "company": "Febla Technologies",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-febla-technologies-4493247847",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
+  {
+   "id": "li:4492867892",
+   "title": "UI/UX Designer - SAAS",
+   "company": "Tvaram",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-saas-at-tvaram-4492867892",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
+  {
+   "id": "li:4475620155",
+   "title": "Product Designer — WhatsApp India",
+   "company": "WhatsApp",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-%E2%80%94-whatsapp-india-at-whatsapp-4475620155",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
+  },
+  {
+   "id": "li:4493271059",
+   "title": "Senior Product Designer",
+   "company": "ServiceTitan",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-servicetitan-4493271059",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-21T18:12:14.105764+00:00"
   }
  ],
  "last_email_date": ""
