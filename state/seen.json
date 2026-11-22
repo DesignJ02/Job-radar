@@ -237,9 +237,33 @@
   "li:4492867892": "2026-11-21T18:12:14.105764+00:00",
   "li:4493247847": "2026-11-21T18:12:14.105764+00:00",
   "li:4493255775": "2026-11-21T18:12:14.105764+00:00",
-  "li:4493302545": "2026-11-22T03:13:24.388665+00:00"
+  "li:4493302545": "2026-11-22T03:13:24.388665+00:00",
+  "li:4493181542": "2026-11-22T11:26:12.640430+00:00",
+  "li:4493314110": "2026-11-22T11:26:12.640430+00:00"
  },
  "recent": [
+  {
+   "id": "li:4493314110",
+   "title": "Senior Product Designer",
+   "company": "Aaydha Tech",
+   "location": "Greater Kolkata Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-aaydha-tech-4493314110",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-22T11:26:12.640430+00:00"
+  },
+  {
+   "id": "li:4493181542",
+   "title": "User Experience Designer",
+   "company": "Zetheta Algorithms Private Limited",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-zetheta-algorithms-private-limited-4493181542",
+   "source": "LinkedIn",
+   "posted": "2026-11-22T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-22T11:26:12.640430+00:00"
+  },
   {
    "id": "li:4493302545",
    "title": "User Experience Designer",
@@ -5345,6 +5369,28 @@
    "posted": "2026-11-21T00:00:00",
    "salary": "",
    "first_seen": "2026-11-22T03:13:24.388665+00:00"
+  },
+  {
+   "id": "li:4493314110",
+   "title": "Senior Product Designer",
+   "company": "Aaydha Tech",
+   "location": "Greater Kolkata Area",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-aaydha-tech-4493314110",
+   "source": "LinkedIn",
+   "posted": "2026-11-21T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-22T11:26:12.640430+00:00"
+  },
+  {
+   "id": "li:4493181542",
+   "title": "User Experience Designer",
+   "company": "Zetheta Algorithms Private Limited",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-zetheta-algorithms-private-limited-4493181542",
+   "source": "LinkedIn",
+   "posted": "2026-11-22T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-22T11:26:12.640430+00:00"
   }
  ],
  "last_email_date": ""
