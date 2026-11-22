@@ -239,9 +239,21 @@
   "li:4493255775": "2026-11-21T18:12:14.105764+00:00",
   "li:4493302545": "2026-11-22T03:13:24.388665+00:00",
   "li:4493181542": "2026-11-22T11:26:12.640430+00:00",
-  "li:4493314110": "2026-11-22T11:26:12.640430+00:00"
+  "li:4493314110": "2026-11-22T11:26:12.640430+00:00",
+  "li:4493198912": "2026-11-22T23:50:14.642425+00:00"
  },
  "recent": [
+  {
+   "id": "li:4493198912",
+   "title": "UI/UX Designer",
+   "company": "Eidovis Inc",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-eidovis-inc-4493198912",
+   "source": "LinkedIn",
+   "posted": "2026-11-22T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-22T23:50:14.642425+00:00"
+  },
   {
    "id": "li:4493314110",
    "title": "Senior Product Designer",
@@ -5391,6 +5403,17 @@
    "posted": "2026-11-22T00:00:00",
    "salary": "",
    "first_seen": "2026-11-22T11:26:12.640430+00:00"
+  },
+  {
+   "id": "li:4493198912",
+   "title": "UI/UX Designer",
+   "company": "Eidovis Inc",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-eidovis-inc-4493198912",
+   "source": "LinkedIn",
+   "posted": "2026-11-22T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-22T23:50:14.642425+00:00"
   }
  ],
  "last_email_date": ""
