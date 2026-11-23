@@ -240,9 +240,45 @@
   "li:4493302545": "2026-11-22T03:13:24.388665+00:00",
   "li:4493181542": "2026-11-22T11:26:12.640430+00:00",
   "li:4493314110": "2026-11-22T11:26:12.640430+00:00",
-  "li:4493198912": "2026-11-22T23:50:14.642425+00:00"
+  "li:4493198912": "2026-11-22T23:50:14.642425+00:00",
+  "li:4493593285": "2026-11-23T04:58:13.801721+00:00",
+  "li:4493612264": "2026-11-23T04:58:13.801721+00:00",
+  "li:4493584916": "2026-11-23T04:58:13.801721+00:00"
  },
  "recent": [
+  {
+   "id": "li:4493584916",
+   "title": "Product Designer BDes, MDes) from Tier1 college (NIT, NIFT. IIT only eligible",
+   "company": "Staffnix",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-bdes-mdes-from-tier1-college-nit-nift-iit-only-eligible-at-staffnix-4493584916",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-23T04:58:13.801721+00:00"
+  },
+  {
+   "id": "li:4493612264",
+   "title": "Product Designer (GB04)",
+   "company": "TalentXO",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-gb04-at-talentxo-4493612264",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-23T04:58:13.801721+00:00"
+  },
+  {
+   "id": "li:4493593285",
+   "title": "UI/UX Designer",
+   "company": "Plutus Labs",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-plutus-labs-4493593285",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-23T04:58:13.801721+00:00"
+  },
   {
    "id": "li:4493198912",
    "title": "UI/UX Designer",
@@ -5414,6 +5450,39 @@
    "posted": "2026-11-22T00:00:00",
    "salary": "",
    "first_seen": "2026-11-22T23:50:14.642425+00:00"
+  },
+  {
+   "id": "li:4493584916",
+   "title": "Product Designer BDes, MDes) from Tier1 college (NIT, NIFT. IIT only eligible",
+   "company": "Staffnix",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-bdes-mdes-from-tier1-college-nit-nift-iit-only-eligible-at-staffnix-4493584916",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-23T04:58:13.801721+00:00"
+  },
+  {
+   "id": "li:4493612264",
+   "title": "Product Designer (GB04)",
+   "company": "TalentXO",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-gb04-at-talentxo-4493612264",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-23T04:58:13.801721+00:00"
+  },
+  {
+   "id": "li:4493593285",
+   "title": "UI/UX Designer",
+   "company": "Plutus Labs",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-plutus-labs-4493593285",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-23T04:58:13.801721+00:00"
   }
  ],
  "last_email_date": ""
