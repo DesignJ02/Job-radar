@@ -253,9 +253,21 @@
   "li:4493732308": "2026-11-24T02:35:58.198768+00:00",
   "li:4494084326": "2026-11-24T02:35:58.198768+00:00",
   "li:4492391704": "2026-11-24T02:35:58.198768+00:00",
-  "li:4493586967": "2026-11-24T02:35:58.198768+00:00"
+  "li:4493586967": "2026-11-24T02:35:58.198768+00:00",
+  "li:4494330855": "2026-11-24T12:56:07.159367+00:00"
  },
  "recent": [
+  {
+   "id": "li:4494330855",
+   "title": "UI/UX Designer",
+   "company": "Grade Capital",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-grade-capital-4494330855",
+   "source": "LinkedIn",
+   "posted": "2026-11-24T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T12:56:07.159367+00:00"
+  },
   {
    "id": "li:4493586967",
    "title": "User Experience Designer",
@@ -5713,6 +5725,17 @@
    "posted": "2026-11-23T00:00:00",
    "salary": "",
    "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4494330855",
+   "title": "UI/UX Designer",
+   "company": "Grade Capital",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-grade-capital-4494330855",
+   "source": "LinkedIn",
+   "posted": "2026-11-24T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T12:56:07.159367+00:00"
   }
  ],
  "last_email_date": ""
