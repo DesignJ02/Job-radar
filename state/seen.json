@@ -244,9 +244,117 @@
   "li:4493593285": "2026-11-23T04:58:13.801721+00:00",
   "li:4493612264": "2026-11-23T04:58:13.801721+00:00",
   "li:4493584916": "2026-11-23T04:58:13.801721+00:00",
-  "lv:cred:70783f5e-1264-4149-b165-bd3b72854da8": "2026-11-23T15:42:55.405807+00:00"
+  "lv:cred:70783f5e-1264-4149-b165-bd3b72854da8": "2026-11-23T15:42:55.405807+00:00",
+  "li:4493637712": "2026-11-24T02:35:58.198768+00:00",
+  "li:4493685870": "2026-11-24T02:35:58.198768+00:00",
+  "li:4493778647": "2026-11-24T02:35:58.198768+00:00",
+  "li:4493612666": "2026-11-24T02:35:58.198768+00:00",
+  "li:4493792018": "2026-11-24T02:35:58.198768+00:00",
+  "li:4493732308": "2026-11-24T02:35:58.198768+00:00",
+  "li:4494084326": "2026-11-24T02:35:58.198768+00:00",
+  "li:4492391704": "2026-11-24T02:35:58.198768+00:00",
+  "li:4493586967": "2026-11-24T02:35:58.198768+00:00"
  },
  "recent": [
+  {
+   "id": "li:4493586967",
+   "title": "User Experience Designer",
+   "company": "FortyV - Creative Technology Studio",
+   "location": "Coimbatore, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-fortyv-creative-technology-studio-4493586967",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4492391704",
+   "title": "UI/UX Designer",
+   "company": "Unpaqd",
+   "location": "Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-unpaqd-4492391704",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4494084326",
+   "title": "Product Designer",
+   "company": "Lollypop Design Studio",
+   "location": "Greater Chennai Area",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-lollypop-design-studio-4494084326",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493732308",
+   "title": "Product Designer (UI/UX)",
+   "company": "Zigsaw",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ui-ux-at-zigsaw-4493732308",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493792018",
+   "title": "UX Designer III",
+   "company": "PDI Technologies",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-iii-at-pdi-technologies-4493792018",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493612666",
+   "title": "UX Designer",
+   "company": "isolved",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-isolved-4493612666",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493778647",
+   "title": "UX Designer III",
+   "company": "PDI Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-iii-at-pdi-technologies-4493778647",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493685870",
+   "title": "Sr. UX Designer | Amazon Now, Amazon Now",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ux-designer-amazon-now-amazon-now-at-amazon-4493685870",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493637712",
+   "title": "Senior Product Designer",
+   "company": "TalentXO",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-talentxo-4493637712",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
   {
    "id": "lv:cred:70783f5e-1264-4149-b165-bd3b72854da8",
    "title": "product design",
@@ -5506,6 +5614,105 @@
    "posted": "2026-11-06T09:00:38.060000+00:00",
    "salary": "",
    "first_seen": "2026-11-23T15:42:55.405807+00:00"
+  },
+  {
+   "id": "li:4493586967",
+   "title": "User Experience Designer",
+   "company": "FortyV - Creative Technology Studio",
+   "location": "Coimbatore, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-fortyv-creative-technology-studio-4493586967",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4492391704",
+   "title": "UI/UX Designer",
+   "company": "Unpaqd",
+   "location": "Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-unpaqd-4492391704",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4494084326",
+   "title": "Product Designer",
+   "company": "Lollypop Design Studio",
+   "location": "Greater Chennai Area",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-lollypop-design-studio-4494084326",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493732308",
+   "title": "Product Designer (UI/UX)",
+   "company": "Zigsaw",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ui-ux-at-zigsaw-4493732308",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493792018",
+   "title": "UX Designer III",
+   "company": "PDI Technologies",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-iii-at-pdi-technologies-4493792018",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493612666",
+   "title": "UX Designer",
+   "company": "isolved",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-at-isolved-4493612666",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493778647",
+   "title": "UX Designer III",
+   "company": "PDI Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/ux-designer-iii-at-pdi-technologies-4493778647",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493685870",
+   "title": "Sr. UX Designer | Amazon Now, Amazon Now",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ux-designer-amazon-now-amazon-now-at-amazon-4493685870",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
+  },
+  {
+   "id": "li:4493637712",
+   "title": "Senior Product Designer",
+   "company": "TalentXO",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-talentxo-4493637712",
+   "source": "LinkedIn",
+   "posted": "2026-11-23T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-24T02:35:58.198768+00:00"
   }
  ],
  "last_email_date": ""
