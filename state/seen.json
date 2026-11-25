@@ -268,9 +268,21 @@
   "li:4493968645": "2026-11-24T22:52:33.805364+00:00",
   "li:4492688514": "2026-11-24T22:52:33.805364+00:00",
   "li:4494366829": "2026-11-24T22:52:33.805364+00:00",
-  "li:4484806752": "2026-11-24T22:52:33.805364+00:00"
+  "li:4484806752": "2026-11-24T22:52:33.805364+00:00",
+  "li:4494740868": "2026-11-25T05:10:13.669270+00:00"
  },
  "recent": [
+  {
+   "id": "li:4494740868",
+   "title": "UI/UX Designer",
+   "company": "Shopperbeats",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-shopperbeats-4494740868",
+   "source": "LinkedIn",
+   "posted": "2026-11-24T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-25T05:10:13.669270+00:00"
+  },
   {
    "id": "li:4484806752",
    "title": "UX Designer",
@@ -6058,6 +6070,17 @@
    "posted": "2026-11-24T00:00:00",
    "salary": "",
    "first_seen": "2026-11-24T22:52:33.805364+00:00"
+  },
+  {
+   "id": "li:4494740868",
+   "title": "UI/UX Designer",
+   "company": "Shopperbeats",
+   "location": "Gurugram, Haryana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-shopperbeats-4494740868",
+   "source": "LinkedIn",
+   "posted": "2026-11-24T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-25T05:10:13.669270+00:00"
   }
  ],
  "last_email_date": ""
