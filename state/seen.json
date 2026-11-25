@@ -283,9 +283,21 @@
   "li:4494765916": "2026-11-25T15:33:10.124655+00:00",
   "li:4494646552": "2026-11-25T15:33:10.124655+00:00",
   "li:4493413225": "2026-11-25T15:33:10.124655+00:00",
-  "li:4494791282": "2026-11-25T15:33:10.124655+00:00"
+  "li:4494791282": "2026-11-25T15:33:10.124655+00:00",
+  "li:4494902715": "2026-11-25T23:47:30.295114+00:00"
  },
  "recent": [
+  {
+   "id": "li:4494902715",
+   "title": "Senior Creative (Hybrid) - Design Studios (UX/UI)",
+   "company": "Boston Consulting Group (BCG)",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-creative-hybrid-design-studios-ux-ui-at-boston-consulting-group-bcg-4494902715",
+   "source": "LinkedIn",
+   "posted": "2026-11-25T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-25T23:47:30.295114+00:00"
+  },
   {
    "id": "li:4494791282",
    "title": "Senior UX Designer",
@@ -6403,6 +6415,17 @@
    "posted": "2026-11-25T00:00:00",
    "salary": "",
    "first_seen": "2026-11-25T15:33:10.124655+00:00"
+  },
+  {
+   "id": "li:4494902715",
+   "title": "Senior Creative (Hybrid) - Design Studios (UX/UI)",
+   "company": "Boston Consulting Group (BCG)",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-creative-hybrid-design-studios-ux-ui-at-boston-consulting-group-bcg-4494902715",
+   "source": "LinkedIn",
+   "posted": "2026-11-25T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-25T23:47:30.295114+00:00"
   }
  ],
  "last_email_date": ""
