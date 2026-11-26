@@ -284,9 +284,33 @@
   "li:4494646552": "2026-11-25T15:33:10.124655+00:00",
   "li:4493413225": "2026-11-25T15:33:10.124655+00:00",
   "li:4494791282": "2026-11-25T15:33:10.124655+00:00",
-  "li:4494902715": "2026-11-25T23:47:30.295114+00:00"
+  "li:4494902715": "2026-11-25T23:47:30.295114+00:00",
+  "li:4493424446": "2026-11-26T06:11:08.368356+00:00",
+  "li:4494491615": "2026-11-26T06:11:08.368356+00:00"
  },
  "recent": [
+  {
+   "id": "li:4494491615",
+   "title": "User Experience Designer",
+   "company": "Inventyv Software Services Pvt. Ltd.",
+   "location": "Ahmedabad, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-inventyv-software-services-pvt-ltd-4494491615",
+   "source": "LinkedIn",
+   "posted": "2026-11-25T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T06:11:08.368356+00:00"
+  },
+  {
+   "id": "li:4493424446",
+   "title": "Product Designer (UI/UX)",
+   "company": "YourDOST",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ui-ux-at-yourdost-4493424446",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T06:11:08.368356+00:00"
+  },
   {
    "id": "li:4494902715",
    "title": "Senior Creative (Hybrid) - Design Studios (UX/UI)",
@@ -6426,6 +6450,28 @@
    "posted": "2026-11-25T00:00:00",
    "salary": "",
    "first_seen": "2026-11-25T23:47:30.295114+00:00"
+  },
+  {
+   "id": "li:4494491615",
+   "title": "User Experience Designer",
+   "company": "Inventyv Software Services Pvt. Ltd.",
+   "location": "Ahmedabad, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-inventyv-software-services-pvt-ltd-4494491615",
+   "source": "LinkedIn",
+   "posted": "2026-11-25T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T06:11:08.368356+00:00"
+  },
+  {
+   "id": "li:4493424446",
+   "title": "Product Designer (UI/UX)",
+   "company": "YourDOST",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ui-ux-at-yourdost-4493424446",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T06:11:08.368356+00:00"
   }
  ],
  "last_email_date": ""
