@@ -286,9 +286,129 @@
   "li:4494791282": "2026-11-25T15:33:10.124655+00:00",
   "li:4494902715": "2026-11-25T23:47:30.295114+00:00",
   "li:4493424446": "2026-11-26T06:11:08.368356+00:00",
-  "li:4494491615": "2026-11-26T06:11:08.368356+00:00"
+  "li:4494491615": "2026-11-26T06:11:08.368356+00:00",
+  "li:4485319858": "2026-11-26T16:50:56.020627+00:00",
+  "li:4493829441": "2026-11-26T16:50:56.020627+00:00",
+  "li:4495030131": "2026-11-26T16:50:56.020627+00:00",
+  "li:4495502265": "2026-11-26T16:50:56.020627+00:00",
+  "li:4495020395": "2026-11-26T16:50:56.020627+00:00",
+  "li:4495021517": "2026-11-26T16:50:56.020627+00:00",
+  "li:4495001711": "2026-11-26T16:50:56.020627+00:00",
+  "li:4494990968": "2026-11-26T16:50:56.020627+00:00",
+  "li:4495024755": "2026-11-26T16:50:56.020627+00:00",
+  "lv:meesho:15cbdb02-e678-462b-b3ac-d70f48144eb8": "2026-11-26T16:50:56.020627+00:00"
  },
  "recent": [
+  {
+   "id": "lv:meesho:15cbdb02-e678-462b-b3ac-d70f48144eb8",
+   "title": "Product Designer II (Kirana Club)",
+   "company": "Meesho",
+   "location": "Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/meesho/15cbdb02-e678-462b-b3ac-d70f48144eb8",
+   "source": "Lever",
+   "posted": "2026-11-18T14:04:34.788000+00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495024755",
+   "title": "UI/UX Designer",
+   "company": "CV3",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-cv3-4495024755",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4494990968",
+   "title": "Product Designer",
+   "company": "Codewalla",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-codewalla-4494990968",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495001711",
+   "title": "UI/UX Designer",
+   "company": "RupeeStop",
+   "location": "Jaipur, Rajasthan, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-rupeestop-4495001711",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495021517",
+   "title": "UI/UX Designer",
+   "company": "Weboraz Web Solutions",
+   "location": "Greater Hyderabad Area",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-weboraz-web-solutions-4495021517",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495020395",
+   "title": "Sr UX Designer",
+   "company": "Tanla Platforms Limited",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ux-designer-at-tanla-platforms-limited-4495020395",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495502265",
+   "title": "Product Designer",
+   "company": "NationsBenefits India",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-nationsbenefits-india-4495502265",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495030131",
+   "title": "Senior Product Designer",
+   "company": "Vymo",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-vymo-4495030131",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4493829441",
+   "title": "Product Designer",
+   "company": "Narayana Health",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-narayana-health-4493829441",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4485319858",
+   "title": "Product Designer",
+   "company": "AppsForBharat",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-appsforbharat-4485319858",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
   {
    "id": "li:4494491615",
    "title": "User Experience Designer",
@@ -6472,6 +6592,116 @@
    "posted": "2026-11-26T00:00:00",
    "salary": "",
    "first_seen": "2026-11-26T06:11:08.368356+00:00"
+  },
+  {
+   "id": "lv:meesho:15cbdb02-e678-462b-b3ac-d70f48144eb8",
+   "title": "Product Designer II (Kirana Club)",
+   "company": "Meesho",
+   "location": "Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/meesho/15cbdb02-e678-462b-b3ac-d70f48144eb8",
+   "source": "Lever",
+   "posted": "2026-11-18T14:04:34.788000+00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495024755",
+   "title": "UI/UX Designer",
+   "company": "CV3",
+   "location": "India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-cv3-4495024755",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4494990968",
+   "title": "Product Designer",
+   "company": "Codewalla",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-codewalla-4494990968",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495001711",
+   "title": "UI/UX Designer",
+   "company": "RupeeStop",
+   "location": "Jaipur, Rajasthan, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-rupeestop-4495001711",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495021517",
+   "title": "UI/UX Designer",
+   "company": "Weboraz Web Solutions",
+   "location": "Greater Hyderabad Area",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-weboraz-web-solutions-4495021517",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495020395",
+   "title": "Sr UX Designer",
+   "company": "Tanla Platforms Limited",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-ux-designer-at-tanla-platforms-limited-4495020395",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495502265",
+   "title": "Product Designer",
+   "company": "NationsBenefits India",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-nationsbenefits-india-4495502265",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495030131",
+   "title": "Senior Product Designer",
+   "company": "Vymo",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-vymo-4495030131",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4493829441",
+   "title": "Product Designer",
+   "company": "Narayana Health",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-narayana-health-4493829441",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4485319858",
+   "title": "Product Designer",
+   "company": "AppsForBharat",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-appsforbharat-4485319858",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-26T16:50:56.020627+00:00"
   }
  ],
  "last_email_date": ""
