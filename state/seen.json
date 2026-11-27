@@ -298,9 +298,57 @@
   "li:4495024755": "2026-11-26T16:50:56.020627+00:00",
   "lv:meesho:15cbdb02-e678-462b-b3ac-d70f48144eb8": "2026-11-26T16:50:56.020627+00:00",
   "li:4495529620": "2026-11-27T00:54:21.807400+00:00",
-  "li:4495003649": "2026-11-27T00:54:21.807400+00:00"
+  "li:4495003649": "2026-11-27T00:54:21.807400+00:00",
+  "li:4493866435": "2026-11-27T09:19:47.633937+00:00",
+  "li:4495568905": "2026-11-27T09:19:47.633937+00:00",
+  "li:4493813599": "2026-11-27T09:19:47.633937+00:00",
+  "li:4493834473": "2026-11-27T09:19:47.633937+00:00"
  },
  "recent": [
+  {
+   "id": "li:4493834473",
+   "title": "Product Designer – UI/UX | Figma | React",
+   "company": "Script Assist",
+   "location": "Ahmedabad, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-%E2%80%93-ui-ux-figma-react-at-script-assist-4493834473",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T09:19:47.633937+00:00"
+  },
+  {
+   "id": "li:4493813599",
+   "title": "UI/UX Designer",
+   "company": "PrintDeed",
+   "location": "Gandhinagar, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-printdeed-4493813599",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T09:19:47.633937+00:00"
+  },
+  {
+   "id": "li:4495568905",
+   "title": "Senior UX Designer – B2C Product | Fintech / Lending",
+   "company": "Piramal Finance",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-%E2%80%93-b2c-product-fintech-lending-at-piramal-finance-4495568905",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T09:19:47.633937+00:00"
+  },
+  {
+   "id": "li:4493866435",
+   "title": "UI/UX Designer (AI Native)",
+   "company": "Trovex.ai",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-ai-native-at-trovex-ai-4493866435",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T09:19:47.633937+00:00"
+  },
   {
    "id": "li:4495003649",
    "title": "Sr Product Designer",
@@ -3556,39 +3604,6 @@
    "posted": "2026-11-04T00:00:00",
    "salary": "",
    "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4470636485",
-   "title": "Senior UX Designer",
-   "company": "OneTrust",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-at-onetrust-4470636485",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4486503702",
-   "title": "UI/UX Designer",
-   "company": "Cloudwick",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-cloudwick-4486503702",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4486385276",
-   "title": "Product Designer (UI/UX)",
-   "company": "Knowmax",
-   "location": "Gurugram, Haryana, India",
-   "url": "https://in.linkedin.com/jobs/view/product-designer-ui-ux-at-knowmax-4486385276",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
   }
  ],
  "email_pending": [
@@ -6748,6 +6763,50 @@
    "posted": "2026-11-27T00:00:00",
    "salary": "",
    "first_seen": "2026-11-27T00:54:21.807400+00:00"
+  },
+  {
+   "id": "li:4493834473",
+   "title": "Product Designer – UI/UX | Figma | React",
+   "company": "Script Assist",
+   "location": "Ahmedabad, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-%E2%80%93-ui-ux-figma-react-at-script-assist-4493834473",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T09:19:47.633937+00:00"
+  },
+  {
+   "id": "li:4493813599",
+   "title": "UI/UX Designer",
+   "company": "PrintDeed",
+   "location": "Gandhinagar, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-printdeed-4493813599",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T09:19:47.633937+00:00"
+  },
+  {
+   "id": "li:4495568905",
+   "title": "Senior UX Designer – B2C Product | Fintech / Lending",
+   "company": "Piramal Finance",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-ux-designer-%E2%80%93-b2c-product-fintech-lending-at-piramal-finance-4495568905",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T09:19:47.633937+00:00"
+  },
+  {
+   "id": "li:4493866435",
+   "title": "UI/UX Designer (AI Native)",
+   "company": "Trovex.ai",
+   "location": "Greater Bengaluru Area",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-ai-native-at-trovex-ai-4493866435",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T09:19:47.633937+00:00"
   }
  ],
  "last_email_date": ""
