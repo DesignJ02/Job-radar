@@ -296,9 +296,33 @@
   "li:4495001711": "2026-11-26T16:50:56.020627+00:00",
   "li:4494990968": "2026-11-26T16:50:56.020627+00:00",
   "li:4495024755": "2026-11-26T16:50:56.020627+00:00",
-  "lv:meesho:15cbdb02-e678-462b-b3ac-d70f48144eb8": "2026-11-26T16:50:56.020627+00:00"
+  "lv:meesho:15cbdb02-e678-462b-b3ac-d70f48144eb8": "2026-11-26T16:50:56.020627+00:00",
+  "li:4495529620": "2026-11-27T00:54:21.807400+00:00",
+  "li:4495003649": "2026-11-27T00:54:21.807400+00:00"
  },
  "recent": [
+  {
+   "id": "li:4495003649",
+   "title": "Sr Product Designer",
+   "company": "Target",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-4495003649",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T00:54:21.807400+00:00"
+  },
+  {
+   "id": "li:4495529620",
+   "title": "Product Designer II (Kirana Club)",
+   "company": "Meesho",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ii-kirana-club-at-meesho-4495529620",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T00:54:21.807400+00:00"
+  },
   {
    "id": "lv:meesho:15cbdb02-e678-462b-b3ac-d70f48144eb8",
    "title": "Product Designer II (Kirana Club)",
@@ -6702,6 +6726,28 @@
    "posted": "2026-11-26T00:00:00",
    "salary": "",
    "first_seen": "2026-11-26T16:50:56.020627+00:00"
+  },
+  {
+   "id": "li:4495003649",
+   "title": "Sr Product Designer",
+   "company": "Target",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-4495003649",
+   "source": "LinkedIn",
+   "posted": "2026-11-26T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T00:54:21.807400+00:00"
+  },
+  {
+   "id": "li:4495529620",
+   "title": "Product Designer II (Kirana Club)",
+   "company": "Meesho",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-ii-kirana-club-at-meesho-4495529620",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-27T00:54:21.807400+00:00"
   }
  ],
  "last_email_date": ""
