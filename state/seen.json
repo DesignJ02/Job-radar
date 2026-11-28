@@ -302,9 +302,93 @@
   "li:4493866435": "2026-11-27T09:19:47.633937+00:00",
   "li:4495568905": "2026-11-27T09:19:47.633937+00:00",
   "li:4493813599": "2026-11-27T09:19:47.633937+00:00",
-  "li:4493834473": "2026-11-27T09:19:47.633937+00:00"
+  "li:4493834473": "2026-11-27T09:19:47.633937+00:00",
+  "li:4495598280": "2026-11-28T01:56:41.790037+00:00",
+  "li:4495301885": "2026-11-28T01:56:41.790037+00:00",
+  "li:4495575674": "2026-11-28T01:56:41.790037+00:00",
+  "li:4493896432": "2026-11-28T01:56:41.790037+00:00",
+  "li:4495098670": "2026-11-28T01:56:41.790037+00:00",
+  "li:4495088299": "2026-11-28T01:56:41.790037+00:00",
+  "li:4495801547": "2026-11-28T01:56:41.790037+00:00"
  },
  "recent": [
+  {
+   "id": "li:4495801547",
+   "title": "Senior Product Designer",
+   "company": "Hitachi Vantara",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-hitachi-vantara-4495801547",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495088299",
+   "title": "UI/UX Designer",
+   "company": "New Age",
+   "location": "Surat, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-new-age-4495088299",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495098670",
+   "title": "UI/UX Designer",
+   "company": "Nyusoft Solutions",
+   "location": "Ahmedabad, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-nyusoft-solutions-4495098670",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4493896432",
+   "title": "UI/UX Designer",
+   "company": "Codeft Digital",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-codeft-digital-4493896432",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495575674",
+   "title": "Sr Product Designer",
+   "company": "Target in India",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-in-india-4495575674",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495301885",
+   "title": "Sr Product Designer",
+   "company": "Target",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-4495301885",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495598280",
+   "title": "Product Designer",
+   "company": "Whatfix",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-whatfix-4495598280",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
   {
    "id": "li:4493834473",
    "title": "Product Designer – UI/UX | Figma | React",
@@ -3527,83 +3611,6 @@
    "posted": "2026-11-04T00:00:00",
    "salary": "",
    "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4487242185",
-   "title": "UX Designer (Figma + Storybook)",
-   "company": "InfoBeans",
-   "location": "Pune City, Maharashtra, India",
-   "url": "https://in.linkedin.com/jobs/view/ux-designer-figma-%2B-storybook-at-infobeans-4487242185",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4487248457",
-   "title": "User Experience Designer",
-   "company": "Bitamin",
-   "location": "Pune Division, Maharashtra, India",
-   "url": "https://in.linkedin.com/jobs/view/user-experience-designer-at-bitamin-4487248457",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4486375675",
-   "title": "UI/UX Designers",
-   "company": "Reveille Technologies,Inc",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://in.linkedin.com/jobs/view/ui-ux-designers-at-reveille-technologies-inc-4486375675",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4476656364",
-   "title": "UI/UX Designer",
-   "company": "Accellor",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-accellor-4476656364",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4486370826",
-   "title": "Senior Product Designer - B2C",
-   "company": "Versatile Club Employer of Record",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-b2c-at-versatile-club-employer-of-record-4486370826",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4487229902",
-   "title": "Senior Product Designer",
-   "company": "noon",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-noon-4487229902",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
-  },
-  {
-   "id": "li:4486337818",
-   "title": "Senior Product Designer",
-   "company": "HappieHire",
-   "location": "Greater Bengaluru Area",
-   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-happiehire-4486337818",
-   "source": "LinkedIn",
-   "posted": "2026-11-04T00:00:00",
-   "salary": "",
-   "first_seen": "2026-11-05T00:58:11.675370+00:00"
   }
  ],
  "email_pending": [
@@ -6807,6 +6814,83 @@
    "posted": "2026-11-27T00:00:00",
    "salary": "",
    "first_seen": "2026-11-27T09:19:47.633937+00:00"
+  },
+  {
+   "id": "li:4495801547",
+   "title": "Senior Product Designer",
+   "company": "Hitachi Vantara",
+   "location": "Pune Division, Maharashtra, India",
+   "url": "https://in.linkedin.com/jobs/view/senior-product-designer-at-hitachi-vantara-4495801547",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495088299",
+   "title": "UI/UX Designer",
+   "company": "New Age",
+   "location": "Surat, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-new-age-4495088299",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495098670",
+   "title": "UI/UX Designer",
+   "company": "Nyusoft Solutions",
+   "location": "Ahmedabad, Gujarat, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-nyusoft-solutions-4495098670",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4493896432",
+   "title": "UI/UX Designer",
+   "company": "Codeft Digital",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-codeft-digital-4493896432",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495575674",
+   "title": "Sr Product Designer",
+   "company": "Target in India",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-in-india-4495575674",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495301885",
+   "title": "Sr Product Designer",
+   "company": "Target",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/sr-product-designer-at-target-4495301885",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
+  },
+  {
+   "id": "li:4495598280",
+   "title": "Product Designer",
+   "company": "Whatfix",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://in.linkedin.com/jobs/view/product-designer-at-whatfix-4495598280",
+   "source": "LinkedIn",
+   "posted": "2026-11-27T00:00:00",
+   "salary": "",
+   "first_seen": "2026-11-28T01:56:41.790037+00:00"
   }
  ],
  "last_email_date": ""
